@@ -3,10 +3,10 @@ name: Check for duplicates or errors
 on:
   push:
     branches:
-      - main
+      - "**"
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   checker:
