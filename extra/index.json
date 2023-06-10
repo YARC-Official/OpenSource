@@ -17,6 +17,14 @@
 			"icon": "djhero",
 			"type": "game"
 		},
+		{
+			"ids": [ "bhds" ],
+			"names": {
+				"en-US": "Band Hero DS"
+			},
+			"icon": "bhds",
+			"type": "gh"
+		},
 		{ 
 			"ids": [ "rbtp_classic_rock" ],
 			"names": {
@@ -924,9 +932,57 @@
 		{ 
 			"ids": [ "3up" ],
 			"names": {
-				"en-US": "3up"
+				"en-US": "3-UP"
 			},
-			"icon": "3-UP",
+			"icon": "3up",
+			"type": "charter"
+		},
+		{ 
+			"ids": [ "goulart" ],
+			"names": {
+				"en-US": "raphaelgoulart"
+			},
+			"icon": "goulart",
+			"type": "charter"
+		},
+		{ 
+			"ids": [ "ab" ],
+			"names": {
+				"en-US": "Aeon Bridge"
+			},
+			"icon": "ab",
+			"type": "custom"
+		},
+		{ 
+			"ids": [ "daijyoubs" ],
+			"names": {
+				"en-US": "DaiJyoubs"
+			},
+			"icon": "daijyoubs",
+			"type": "charter"
+		},
+		{ 
+			"ids": [ "hugh" ],
+			"names": {
+				"en-US": "Hugh"
+			},
+			"icon": "hugh",
+			"type": "charter"
+		},
+		{ 
+			"ids": [ "adagiodiscog" ],
+			"names": {
+				"en-US": "Adagio Discography"
+			},
+			"icon": "adagiodiscog",
+			"type": "custom"
+		},
+		{ 
+			"ids": [ "animehero" ],
+			"names": {
+				"en-US": "Anime Hero"
+			},
+			"icon": "animehero",
 			"type": "custom"
 		}
 	]
