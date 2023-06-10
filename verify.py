@@ -5,6 +5,7 @@ ids = []
 
 icons = []
 usedIcons = []
+enNames = []
 
 def scanIcons(parent):
 	global icons
@@ -35,6 +36,13 @@ def scan(parent):
 				print(f"ERROR: Duplicate id `{id}` in `{sourceName}`")
 			else:
 				ids.append(id)
+		
+		# Look for a duplicate name
+		name = source["names"]["en-US"]
+		if name in enNames:
+			print(f"WARN: Duplicate name `{name}` can be consolidated")
+		else:
+			enNames.append(name)
 
 		# See if icon exists
 		icon = source["icon"]
