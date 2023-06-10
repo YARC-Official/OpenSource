@@ -10,10 +10,16 @@ def scanIcons(parent):
 	global icons
 	
 	path = os.path.join(parent, "icons")
+	count = 0
 	for file in os.listdir(path):
-		icons.append(os.path.splitext(os.path.basename(file))[0])
-
-	print(f"Found {len(icons)} icons in `{parent}`")
+		name = os.path.splitext(os.path.basename(file))[0]
+		if name in icons:
+			print(f"ERROR: Found duplicate icon `{name}` in `{parent}`")
+		else:
+			icons.append(name)
+			count += 1
+	
+	print(f"Found {count} icons in `{parent}`")
 
 def scan(parent):
 	global ids
@@ -33,18 +39,21 @@ def scan(parent):
 		# See if icon exists
 		icon = source["icon"]
 		if not icon in icons:
-			print(f"ERROR: Icon `{icon}` does not exist!")
+			print(f"ERROR: Icon `{icon}` does not exist")
 		elif not icon in usedIcons:
 			usedIcons.append(icon)
 	
 	# Check for extra icons
 	unused = list(set(icons).difference(usedIcons))
 	if len(unused) != 0:
-		print(f"WARNING: {len(unused)} unused icons.")
+		print(f"WARNING: {len(unused)} unused icons")
 		for i in unused:
 			print(f" - {i}")
 
-	print(f"Done scanning `{parent}`.")
+	print(f"Done scanning `{parent}`")
 
 scanIcons("base")
 scan("base")
+
+scanIcons("extra")
+scan("extra")
