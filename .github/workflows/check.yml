@@ -1,0 +1,21 @@
+name: Check for duplicates or errors
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  checker:
+    name: Check for duplicates or errors
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Checking
+        run: python3 verify.py
