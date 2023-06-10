@@ -67,7 +67,7 @@ def scan(parent):
 		for i in unused:
 			print(f" - {i}")
 			if(os.getenv("CI") == "true"):
-				print(f"::warning file={parent}/icons/{i}.png::[{parent}] Unused icon")
+				print(f"::warning file={parent}/icons/{i}.png::[{parent}] Unused icon ({parent}/icons/{i}.png)")
 
 	print(f"Done scanning `{parent}`")
 
