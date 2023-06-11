@@ -984,6 +984,14 @@
 			},
 			"icon": "animehero",
 			"type": "custom"
+		},
+		{ 
+			"ids": [ "chu" ],
+			"names": {
+				"en-US": "CloneHeroUruguay"
+			},
+			"icon": "chu",
+			"type": "charter"
 		}
 	]
 }
