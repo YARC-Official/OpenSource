@@ -2,11 +2,20 @@ import json
 import os
 import sys
 
+hasError = False
+
 ids = []
 
 icons = []
 usedIcons = []
 enNames = []
+
+def CI(message, isError = False):
+	global hasError
+	if isError == True:
+		hasError = True
+	if(os.getenv("CI") == "true"):
+		print(message)
 
 def scanIcons(parent):
 	global icons
@@ -17,9 +26,7 @@ def scanIcons(parent):
 		name = os.path.splitext(os.path.basename(file))[0]
 		if name in icons:
 			print(f"ERROR: Found duplicate icon `{name}` in `{parent}`")
-			if(os.getenv("CI") == "true"):
-				print(f"::error file={parent}/icons/{name}.png::[{parent}] Found duplicate icon `{name}` in `{parent}`")
-				sys.exit(1)
+			CI(f"::error file={parent}/icons/{name}.png::[{parent}] Found duplicate icon `{name}` in `{parent}`", True)
 		else:
 			icons.append(name)
 			count += 1
@@ -38,9 +45,7 @@ def scan(parent):
 			if id in ids:
 				sourceName = source["names"]["en-US"]
 				print(f"ERROR: Duplicate id `{id}` in `{sourceName}`")
-				if(os.getenv("CI") == "true"):
-					print(f"::error file={parent}/index.json::[{parent}] Duplicate id `{id}` in `{sourceName}`")
-					sys.exit(1)
+				CI(f"::error file={parent}/index.json::[{parent}] Duplicate id `{id}` in `{sourceName}`", True)
 			else:
 				ids.append(id)
 		
@@ -48,8 +53,7 @@ def scan(parent):
 		name = source["names"]["en-US"]
 		if name in enNames:
 			print(f"WARN: Duplicate name `{name}` can be consolidated")
-			if(os.getenv("CI") == "true"):
-				print(f"::warning file={parent}/index.json::[{parent}] Duplicate name `{name}` can be consolidated")
+			CI(f"::warning file={parent}/index.json::[{parent}] Duplicate name `{name}` can be consolidated")
 		else:
 			enNames.append(name)
 
@@ -57,9 +61,7 @@ def scan(parent):
 		icon = source["icon"]
 		if not icon in icons:
 			print(f"ERROR: Icon `{icon}` does not exist")
-			if(os.getenv("CI") == "true"):
-				print(f"::error file={parent}/index.json::[{parent}] Icon `{icon}` does not exist")
-				sys.exit(1)
+			CI(f"::error file={parent}/index.json::[{parent}] Icon `{icon}` does not exist", True)
 
 		elif not icon in usedIcons:
 			usedIcons.append(icon)
@@ -70,8 +72,7 @@ def scan(parent):
 		print(f"WARNING: {len(unused)} unused icons")
 		for i in unused:
 			print(f" - {i}")
-			if(os.getenv("CI") == "true"):
-				print(f"::warning file={parent}/icons/{i}.png::[{parent}] Unused icon ({parent}/icons/{i}.png)")
+			CI(f"::warning file={parent}/icons/{i}.png::[{parent}] Unused icon ({parent}/icons/{i}.png)")
 
 	print(f"Done scanning `{parent}`")
 
@@ -80,3 +81,6 @@ scan("base")
 
 scanIcons("extra")
 scan("extra")
+
+if hasError == True:
+	sys.exit(1)
