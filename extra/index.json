@@ -502,7 +502,7 @@
 			"names": {
 				"en-US": "Frets on Fire"
 			},
-			"icon": "custom",
+			"icon": "fof",
 			"type": "custom"
 		},
 		{ 
@@ -638,7 +638,7 @@
 			"names": {
 				"en-US": "Koreaboo Hero"
 			},
-			"icon": "custom",
+			"icon": "kh",
 			"type": "custom"
 		},
 		{ 
@@ -646,7 +646,15 @@
 			"names": {
 				"en-US": "Koreaboo Hero 2"
 			},
-			"icon": "custom",
+			"icon": "kh2",
+			"type": "custom"
+		},
+		{ 
+			"ids": [ "kh3" ],
+			"names": {
+				"en-US": "Koreaboo Hero 3"
+			},
+			"icon": "kh3",
 			"type": "custom"
 		},
 		{ 
