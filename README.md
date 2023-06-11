@@ -5,6 +5,7 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 
 # 📃 Table of Contents
 
+- [Credits](#-credits)
 - [Contributing](#️-contributing)
 - [Specifications for Use](#-specifications-for-use)
   - [`index.json`](#indexjson)
@@ -13,6 +14,14 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 - [Guidelines for Making Icons](#-guidelines-for-making-icons)
 - [Guidelines for NEW Sources](#-guidelines-for-new-sources)
 - [License](#️-license)
+
+# 👉 Credits
+
+**HUGE thanks to [Kadu](https://twitter.com/kaduwaengertner)** for making the original set of icons, along with:
+- [Pantotone](https://github.com/Pantotone)
+- [DD](https://github.com/thoudankeykang)
+- [exoticri](https://github.com/exoticri)
+- [LlysiX](https://github.com/LlysiX)
 
 # ✍️ Contributing
 
