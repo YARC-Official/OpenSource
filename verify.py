@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 
 ids = []
 
@@ -18,6 +19,7 @@ def scanIcons(parent):
 			print(f"ERROR: Found duplicate icon `{name}` in `{parent}`")
 			if(os.getenv("CI") == "true"):
 				print(f"::error file={parent}/icons/{name}.png::[{parent}] Found duplicate icon `{name}` in `{parent}`")
+				sys.exit(1)
 		else:
 			icons.append(name)
 			count += 1
@@ -38,6 +40,7 @@ def scan(parent):
 				print(f"ERROR: Duplicate id `{id}` in `{sourceName}`")
 				if(os.getenv("CI") == "true"):
 					print(f"::error file={parent}/index.json::[{parent}] Duplicate id `{id}` in `{sourceName}`")
+					sys.exit(1)
 			else:
 				ids.append(id)
 		
@@ -56,6 +59,7 @@ def scan(parent):
 			print(f"ERROR: Icon `{icon}` does not exist")
 			if(os.getenv("CI") == "true"):
 				print(f"::error file={parent}/index.json::[{parent}] Icon `{icon}` does not exist")
+				sys.exit(1)
 
 		elif not icon in usedIcons:
 			usedIcons.append(icon)

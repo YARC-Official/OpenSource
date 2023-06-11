@@ -1,4 +1,4 @@
-name: Check for duplicates or errors
+name: CI
 
 on:
   push:
