@@ -218,7 +218,7 @@
 			"type": "custom"
 		},
 		{ 
-			"ids": [ "c3customs", "ugc_c3" ],
+			"ids": [ "c3customs", "ugc_c3", "ccc" ],
 			"names": {
 				"en-US": "C3 Customs"
 			},
