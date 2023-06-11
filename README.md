@@ -5,13 +5,18 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 
 # 📃 Table of Contents
 
-- [Downloading and Playing](#-specifications-for-use)
+- [Contributing](#️-contributing)
+- [Specifications for Use](#-specifications-for-use)
   - [`index.json`](#indexjson)
   - [`Source`](#source)
 - [Verifying Indexes](#-verifying-indexes)
-- [Guidelines for Making Icons](#️-guidelines-for-making-icons)
-- [Guidelines for NEW Sources](#️-guidelines-for-new-sources)
-- [License](##️-license)
+- [Guidelines for Making Icons](#-guidelines-for-making-icons)
+- [Guidelines for NEW Sources](#-guidelines-for-new-sources)
+- [License](#️-license)
+
+# ✍️ Contributing
+
+This project is community driven! If you have a source that isn't included, please create a PR and add it. Your icon will be put through a review to make sure it fits with the style, and the indexes with be verified. If you can't do that, feel free to open an issue!
 
 # 📝 Specifications for Use
 
