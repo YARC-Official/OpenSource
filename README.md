@@ -3,6 +3,16 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 
 ![Banner](./ignore/banner.png)
 
+# 📃 Table of Contents
+
+- [Downloading and Playing](#-specifications-for-use)
+  - [`index.json`](#indexjson)
+  - [`Source`](#source)
+- [Verifying Indexes](#-verifying-indexes)
+- [Guidelines for Making Icons](#️-guidelines-for-making-icons)
+- [Guidelines for NEW Sources](#️-guidelines-for-new-sources)
+- [License](##️-license)
+
 # 📝 Specifications for Use
 
 The icons are split into two folders: `base`, and `extra`. `base` is meant for super-common, widely-used icons, and should only contain icons of official games. `extra` is meant for everything else! The reason for this is due to file sizes, and updates. In YARG, the `base` folder is included in the game, while the `extra` folder is updated and stored on its own.
@@ -38,9 +48,27 @@ If you run the `verify.py` file in the repo's folder, it will verify both `index
 - Icon file doesn't exist (error)
 - Unused icons (warning)
 
+# 🔎 Guidelines for Making Icons
+
+All icons **MUST** follow the below formula, and **MUST** fit the style of other icons. Icons will be verified by an artist.
+
+**🚫 Don't:**
+- Change border size.
+- Remove the border effect (Inner Glow).
+- Make an icon who's shape is a solid circle.
+- Allow the icon and the border to intersect. Add a gap between them.
+- Eat the YARG gems.
+
+**✅ Do:**
+- Add gradients on the border (use the "Color" layer).
+- Have fun making cool icons.
+
+A template for the icon can be downloaded [here](https://github.com/YARC-Official/OpenSource/raw/master/ignore/template.psd). Icons must be made using this file.
+
 # 🆕 Guidelines for NEW Sources
 
 > **Note**
+>
 > This is for adding **NEW** sources. Sources already that exist in other games should just use their already assigned IDs for compatibility purposes.
 
 Sources may be added when:
