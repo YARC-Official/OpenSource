@@ -22,6 +22,8 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 - [DD](https://github.com/thoudankeykang)
 - [exoticri](https://github.com/exoticri)
 - [LlysiX](https://github.com/LlysiX)
+- [CloneHeroUruguay](https://github.com/CloneHeroUruguay)
+- [NevesPT](https://github.com/nevespt)
 
 # ✍️ Contributing
 
@@ -79,7 +81,7 @@ All icons **MUST** follow the below formula, and **MUST** fit the style of other
 
 A template for the icon can be downloaded [here](https://github.com/YARC-Official/OpenSource/raw/master/ignore/template.psd). Icons must be made using this file.
 
-### Although the template is 302x302, the icon MUST BE 256x256.
+### The icon MUST BE 256x256.
 256x256 is the optimal icon size.
 
 # 🆕 Guidelines for NEW Sources
