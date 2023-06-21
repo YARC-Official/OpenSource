@@ -992,6 +992,14 @@
 			},
 			"icon": "chu",
 			"type": "charter"
+		},
+		{ 
+			"ids": [ "chillhanger" ],
+			"names": {
+				"en-US": "Chill Hanger"
+			},
+			"icon": "chillhanger",
+			"type": "custom"
 		}
 	]
 }
