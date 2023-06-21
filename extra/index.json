@@ -78,7 +78,7 @@
 			"names": {
 				"en-US": "Pearl Jam: Rock Band"
 			},
-			"icon": "rbdlc",
+			"icon": "rbpj",
 			"type": "rb"
 		},
 		{ 
@@ -86,7 +86,7 @@
 			"names": {
 				"en-US": "Rock Band VR"
 			},
-			"icon": "rbdlc",
+			"icon": "rbvr",
 			"type": "rb"
 		},
 		{ 
@@ -166,7 +166,7 @@
 			"names": {
 				"en-US": "Avenged Sevenfold Mega Pack"
 			},
-			"icon": "custom",
+			"icon": "a7x",
 			"type": "custom"
 		},
 		{ 
@@ -310,7 +310,7 @@
 			"names": {
 				"en-US": "Clone Hero"
 			},
-			"icon": "custom",
+			"icon": "clonehero",
 			"type": "custom"
 		},
 		{ 
@@ -462,7 +462,7 @@
 			"names": {
 				"en-US": "Facelift"
 			},
-			"icon": "custom",
+			"icon": "facelift",
 			"type": "custom"
 		},
 		{ 
@@ -470,7 +470,7 @@
 			"names": {
 				"en-US": "The Fall of Troy Hero"
 			},
-			"icon": "custom",
+			"icon": "tfoth",
 			"type": "custom"
 		},
 		{ 
@@ -694,7 +694,7 @@
 			"names": {
 				"en-US": "MiloHax Customs"
 			},
-			"icon": "custom",
+			"icon": "milohax",
 			"type": "custom"
 		},
 		{ 
@@ -718,7 +718,7 @@
 			"names": {
 				"en-US": "Paramore Mega Pack"
 			},
-			"icon": "custom",
+			"icon": "paramore",
 			"type": "custom"
 		},
 		{ 
@@ -846,7 +846,7 @@
 			"names": {
 				"en-US": "ScoreSpy"
 			},
-			"icon": "custom",
+			"icon": "scorespy",
 			"type": "custom"
 		},
 		{ 
@@ -1000,6 +1000,14 @@
 			},
 			"icon": "chu",
 			"type": "charter"
+		},
+		{ 
+			"ids": [ "chillhanger" ],
+			"names": {
+				"en-US": "Chill Hanger"
+			},
+			"icon": "chillhanger",
+			"type": "custom"
 		}
 	]
 }
