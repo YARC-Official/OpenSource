@@ -1016,6 +1016,32 @@
 			},
 			"icon": "bgrb",
 			"type": "custom"
+		},
+		{
+			"ids": [ 
+				"mh_aren", 
+				"mh_asriel", 
+				"mh_dex", 
+				"mh_fluffy", 
+				"mh_ori", 
+				"mh_sasquatch",
+				"mh_sickliff",
+				"mh_skittlecouch",
+				"mh_supra"
+			],
+			"names": {
+				"en-US": "Mania Hero"
+			},
+			"icon": "custom",
+			"type": "custom"
+		},
+		{
+			"ids": [ "casp" ],
+			"names": {
+				"en-US": "CASP"
+			},
+			"icon": "custom",
+			"type": "custom"
 		}
 	]
 }
