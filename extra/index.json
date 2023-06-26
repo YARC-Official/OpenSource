@@ -1042,6 +1042,22 @@
 			},
 			"icon": "generic",
 			"type": "custom"
+		},
+		{
+			"ids": [ "a9" ],
+			"names": {
+				"en-US": "A9"
+			},
+			"icon": "a9",
+			"type": "custom"
+		},
+		{
+			"ids": [ "aep" ],
+			"names": {
+				"en-US": "The Eternal Project"
+			},
+			"icon": "aep",
+			"type": "custom"
 		}
 	]
 }
