@@ -142,7 +142,7 @@
 			"names": {
 				"en-US": "Anti Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -150,7 +150,7 @@
 			"names": {
 				"en-US": "Anti Hero - Beach Episode"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -158,7 +158,7 @@
 			"names": {
 				"en-US": "Anti Hero 2"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -174,7 +174,7 @@
 			"names": {
 				"en-US": "BITCRUSHER"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -182,7 +182,7 @@
 			"names": {
 				"en-US": "BITCRUSHER DLC"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -190,7 +190,7 @@
 			"names": {
 				"en-US": "Black Hole"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -198,7 +198,7 @@
 			"names": {
 				"en-US": "Blanket Statement"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -206,7 +206,7 @@
 			"names": {
 				"en-US": "Bleep Bloops"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -214,7 +214,7 @@
 			"names": {
 				"en-US": "Bleep Bloop Undercharts"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -278,7 +278,7 @@
 			"names": {
 				"en-US": "CHARTS"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -286,7 +286,7 @@
 			"names": {
 				"en-US": "CHARTS 2"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -294,7 +294,7 @@
 			"names": {
 				"en-US": "Chel Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -302,7 +302,7 @@
 			"names": {
 				"en-US": "Circuit Breaker"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -318,7 +318,7 @@
 			"names": {
 				"en-US": "Code Red"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -326,7 +326,7 @@
 			"names": {
 				"en-US": "Community Track Pack I"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -334,7 +334,7 @@
 			"names": {
 				"en-US": "Community Track Pack II"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -342,7 +342,7 @@
 			"names": {
 				"en-US": "Community Track Pack III"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -350,7 +350,7 @@
 			"names": {
 				"en-US": "Community Track Pack IV"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -358,7 +358,7 @@
 			"names": {
 				"en-US": "Community Track Pack 4.5"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -366,7 +366,7 @@
 			"names": {
 				"en-US": "Community Track Pack V"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -374,7 +374,7 @@
 			"names": {
 				"en-US": "Cow Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -382,7 +382,7 @@
 			"names": {
 				"en-US": "Cow Hero DLC 1 - Bull Conqueror"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -390,7 +390,7 @@
 			"names": {
 				"en-US": "Cow Hero DLC 2 - Bovine Champion"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -398,7 +398,7 @@
 			"names": {
 				"en-US": "Cow Hero DLC 3 - Cattle Guardian"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -406,7 +406,7 @@
 			"names": {
 				"en-US": "Creative Commons Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -422,7 +422,7 @@
 			"names": {
 				"en-US": "Digitizer"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -430,7 +430,7 @@
 			"names": {
 				"en-US": "Dissonance Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -438,7 +438,7 @@
 			"names": {
 				"en-US": "Djent Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -446,7 +446,7 @@
 			"names": {
 				"en-US": "Djent Hero Collection"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -454,7 +454,7 @@
 			"names": {
 				"en-US": "Djent Hero DLC"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -478,7 +478,7 @@
 			"names": {
 				"en-US": "Focal Point"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -486,7 +486,7 @@
 			"names": {
 				"en-US": "Focal Point 2"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -494,7 +494,7 @@
 			"names": {
 				"en-US": "Focal Point 3"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -510,7 +510,7 @@
 			"names": {
 				"en-US": "Fuse Box"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -518,7 +518,7 @@
 			"names": {
 				"en-US": "GITADORA"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -526,7 +526,7 @@
 			"names": {
 				"en-US": "GuitarFreaks"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -534,7 +534,7 @@
 			"names": {
 				"en-US": "GuitarFreaks 2ndMIX & DrumMania"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -542,7 +542,7 @@
 			"names": {
 				"en-US": "Guitar Hero II: Addy's Disc"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -550,7 +550,7 @@
 			"names": {
 				"en-US": "Guitar Hero To Rock Band 3"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -558,7 +558,7 @@
 			"names": {
 				"en-US": "Guitar Hero X"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -566,7 +566,7 @@
 			"names": {
 				"en-US": "Guitar Hero X-II"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -574,7 +574,7 @@
 			"names": {
 				"en-US": "Guitar Praise"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -582,7 +582,7 @@
 			"names": {
 				"en-US": "Guitar Praise: Expansion Pack 1"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -590,7 +590,7 @@
 			"names": {
 				"en-US": "Guitar Praise: Stryper"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -598,7 +598,7 @@
 			"names": {
 				"en-US": "Guitar Zero 2"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -606,7 +606,7 @@
 			"names": {
 				"en-US": "Guitar Zero 2 DLC"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -614,7 +614,7 @@
 			"names": {
 				"en-US": "Harmony Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -622,7 +622,7 @@
 			"names": {
 				"en-US": "Instru-Metal"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -630,7 +630,7 @@
 			"names": {
 				"en-US": "J-Rock Band"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -662,7 +662,7 @@
 			"names": {
 				"en-US": "Marathon Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -670,7 +670,7 @@
 			"names": {
 				"en-US": "Marathon Hero 2"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -678,7 +678,7 @@
 			"names": {
 				"en-US": "Max Altitude"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -686,7 +686,7 @@
 			"names": {
 				"en-US": "Meme Songs"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -702,7 +702,7 @@
 			"names": {
 				"en-US": "Miscellaneous Packs"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -710,7 +710,7 @@
 			"names": {
 				"en-US": "Paradigm"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -734,7 +734,7 @@
 			"names": {
 				"en-US": "Phase Shift Guitar Project 4"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -742,7 +742,7 @@
 			"names": {
 				"en-US": "Plastic Shred Hero: Legends of Apahetic Charting"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -750,7 +750,7 @@
 			"names": {
 				"en-US": "Plastic Shred Hero 2"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -774,7 +774,7 @@
 			"names": {
 				"en-US": "Puppetz Hero I"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -782,7 +782,7 @@
 			"names": {
 				"en-US": "Puppetz Hero II"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -790,7 +790,7 @@
 			"names": {
 				"en-US": "Puppetz Hero III"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -798,7 +798,7 @@
 			"names": {
 				"en-US": "Puppetz Hero IV"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -806,7 +806,7 @@
 			"names": {
 				"en-US": "Rage Quit"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -814,7 +814,7 @@
 			"names": {
 				"en-US": "Redemption Arc"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -822,7 +822,7 @@
 			"names": {
 				"en-US": "REVOLVED"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -854,7 +854,7 @@
 			"names": {
 				"en-US": "S Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -862,7 +862,7 @@
 			"names": {
 				"en-US": "Solo Medleys"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -870,7 +870,7 @@
 			"names": {
 				"en-US": "Suomibiisit"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -878,7 +878,7 @@
 			"names": {
 				"en-US": "Symphonic Effect"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -886,7 +886,7 @@
 			"names": {
 				"en-US": "Symphony X Discography Setlist"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -894,7 +894,7 @@
 			"names": {
 				"en-US": "Synergy"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -902,7 +902,7 @@
 			"names": {
 				"en-US": "Vortex Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -910,7 +910,7 @@
 			"names": {
 				"en-US": "World Charts Community"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -918,7 +918,7 @@
 			"names": {
 				"en-US": "Zancharted"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -926,7 +926,7 @@
 			"names": {
 				"en-US": "Zero Gravity"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -934,7 +934,7 @@
 			"names": {
 				"en-US": "Zero Gravity - Space Battle"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -1032,7 +1032,7 @@
 			"names": {
 				"en-US": "Mania Hero"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{
@@ -1040,7 +1040,7 @@
 			"names": {
 				"en-US": "CASP"
 			},
-			"icon": "custom",
+			"icon": "generic",
 			"type": "custom"
 		}
 	]
