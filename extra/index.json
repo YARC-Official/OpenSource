@@ -174,7 +174,7 @@
 			"names": {
 				"en-US": "BITCRUSHER"
 			},
-			"icon": "generic",
+			"icon": "bitcrusher",
 			"type": "custom"
 		},
 		{ 
@@ -182,7 +182,7 @@
 			"names": {
 				"en-US": "BITCRUSHER DLC"
 			},
-			"icon": "generic",
+			"icon": "bitcrusherdlc",
 			"type": "custom"
 		},
 		{ 
@@ -422,7 +422,7 @@
 			"names": {
 				"en-US": "Digitizer"
 			},
-			"icon": "generic",
+			"icon": "digitizer",
 			"type": "custom"
 		},
 		{ 
@@ -1058,6 +1058,69 @@
 			},
 			"icon": "aep",
 			"type": "custom"
+		},
+		{
+			"ids": [ "vene" ],
+			"names": {
+				"en-US": "Venerabela"
+			},
+			"icon": "vene",
+			"type": "charter"
+		},
+		{
+			"ids": [ "venera1" ],
+			"names": {
+				"en-US": "Venera Hero 1"
+			},
+			"icon": "venera1",
+			"type": "custom"
+		},
+		{
+			"ids": [ "venera2" ],
+			"names": {
+				"en-US": "Venera Hero 2"
+			},
+			"icon": "venera2",
+			"type": "custom"
+		},
+		{
+			"ids": [ "venera3" ],
+			"names": {
+				"en-US": "Venera Hero 3"
+			},
+			"icon": "venera3",
+			"type": "custom"
+		},
+		{
+			"ids": [ "disgo" ],
+			"names": {
+				"en-US": "Disgorodraphy"
+			},
+			"icon": "gorod",
+			"type": "custom"
+		},
+		{
+			"ids": [ "ohm" ],
+			"names": {
+				"en-US": "ΩHM"
+			},
+			"icon": "ohm",
+			"type": "custom"
+		},
+		{
+			"ids": [ "JRabes" ],
+			"names": {
+				"en-US": "JRabes"
+			},
+			"icon": "jrabes",
+			"type": "charter"
+		},
+		{
+			"ids": [ "djmax" ],
+			"names": {
+				"en-US": "DJMax"
+			},
+			"icon": "djmax",
 		},
 		{
 			"ids": [ "bodom" ],
