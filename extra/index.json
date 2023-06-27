@@ -174,7 +174,7 @@
 			"names": {
 				"en-US": "BITCRUSHER"
 			},
-			"icon": "bitcrusher",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -182,7 +182,7 @@
 			"names": {
 				"en-US": "BITCRUSHER DLC"
 			},
-			"icon": "bitcrusherdlc",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -422,7 +422,7 @@
 			"names": {
 				"en-US": "Digitizer"
 			},
-			"icon": "digitizer",
+			"icon": "generic",
 			"type": "custom"
 		},
 		{ 
@@ -1057,54 +1057,6 @@
 				"en-US": "The Eternal Project"
 			},
 			"icon": "aep",
-			"type": "custom"
-		},
-		{
-			"ids": [ "vene" ],
-			"names": {
-				"en-US": "Venerabela"
-			},
-			"icon": "vene",
-			"type": "custom"
-		},
-		{
-			"ids": [ "venera1" ],
-			"names": {
-				"en-US": "Venera Hero 1"
-			},
-			"icon": "venera1",
-			"type": "custom"
-		},
-		{
-			"ids": [ "venera2" ],
-			"names": {
-				"en-US": "Venera Hero 2"
-			},
-			"icon": "venera2",
-			"type": "custom"
-		},
-		{
-			"ids": [ "venera3" ],
-			"names": {
-				"en-US": "Venera Hero 3"
-			},
-			"icon": "venera3",
-			"type": "custom"
-		},
-		{
-			"ids": [ "disgo" ],
-			"names": {
-				"en-US": "Disgorodraphy"
-			},
-			"icon": "gorod",
-			"type": "custom"
-		},
-		{
-			"ids": [ "ohm" ],
-			"names": {
-				"en-US": "ΩHM"
-			},
-			"icon": "ohm",
 			"type": "custom"
 		}
 	]
