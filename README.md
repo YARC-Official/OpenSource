@@ -24,6 +24,7 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 - [LlysiX](https://github.com/LlysiX)
 - [CloneHeroUruguay](https://github.com/CloneHeroUruguay)
 - [NevesPT](https://github.com/nevespt)
+- [SolemnSpirit](https://github.com/SolemnSpirit)
 
 # ✍️ Contributing
 
