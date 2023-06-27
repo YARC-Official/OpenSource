@@ -1106,6 +1106,22 @@
 			},
 			"icon": "ohm",
 			"type": "custom"
+		},
+		{
+			"ids": [ "JRabes" ],
+			"names": {
+				"en-US": "JRabes"
+			},
+			"icon": "jrabes",
+			"type": "custom"
+		},
+		{
+			"ids": [ "djmax" ],
+			"names": {
+				"en-US": "DJMax"
+			},
+			"icon": "djmax",
+			"type": "custom"
 		}
 	]
 }
