@@ -374,7 +374,7 @@
 			"names": {
 				"en-US": "Cow Hero"
 			},
-			"icon": "generic",
+			"icon": "cowhero",
 			"type": "custom"
 		},
 		{ 
@@ -574,7 +574,7 @@
 			"names": {
 				"en-US": "Guitar Praise"
 			},
-			"icon": "generic",
+			"icon": "praise",
 			"type": "custom"
 		},
 		{ 
@@ -662,7 +662,7 @@
 			"names": {
 				"en-US": "Marathon Hero"
 			},
-			"icon": "generic",
+			"icon": "marathon",
 			"type": "custom"
 		},
 		{ 
@@ -678,7 +678,7 @@
 			"names": {
 				"en-US": "Max Altitude"
 			},
-			"icon": "generic",
+			"icon": "ma",
 			"type": "custom"
 		},
 		{ 
@@ -814,7 +814,7 @@
 			"names": {
 				"en-US": "Redemption Arc"
 			},
-			"icon": "generic",
+			"icon": "ra",
 			"type": "custom"
 		},
 		{ 
@@ -854,7 +854,7 @@
 			"names": {
 				"en-US": "S Hero"
 			},
-			"icon": "generic",
+			"icon": "s_hero",
 			"type": "custom"
 		},
 		{ 
@@ -886,7 +886,7 @@
 			"names": {
 				"en-US": "Symphony X Discography Setlist"
 			},
-			"icon": "generic",
+			"icon": "sxdisc",
 			"type": "custom"
 		},
 		{ 
@@ -1121,6 +1121,21 @@
 				"en-US": "DJMax"
 			},
 			"icon": "djmax",
+		},
+		{
+			"ids": [ "bodom" ],
+			"names": {
+				"en-US": "Bodom Hero"
+			},
+			"icon": "bodom",
+			"type": "custom"
+		},
+		{
+			"ids": [ "ironhandhero" ],
+			"names": {
+				"en-US": "Iron Hand Hero"
+			},
+			"icon": "ironhandhero",
 			"type": "custom"
 		}
 	]
