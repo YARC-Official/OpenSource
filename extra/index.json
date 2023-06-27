@@ -1065,7 +1065,7 @@
 				"en-US": "Venerabela"
 			},
 			"icon": "vene",
-			"type": "custom"
+			"type": "charter"
 		},
 		{
 			"ids": [ "venera1" ],
@@ -1113,7 +1113,7 @@
 				"en-US": "JRabes"
 			},
 			"icon": "jrabes",
-			"type": "custom"
+			"type": "charter"
 		},
 		{
 			"ids": [ "djmax" ],
