@@ -142,7 +142,7 @@
 			"names": {
 				"en-US": "Anti Hero"
 			},
-			"icon": "generic",
+			"icon": "antihero",
 			"type": "custom"
 		},
 		{ 
@@ -150,7 +150,7 @@
 			"names": {
 				"en-US": "Anti Hero - Beach Episode"
 			},
-			"icon": "generic",
+			"icon": "ahbe",
 			"type": "custom"
 		},
 		{ 
@@ -158,7 +158,7 @@
 			"names": {
 				"en-US": "Anti Hero 2"
 			},
-			"icon": "generic",
+			"icon": "antihero2",
 			"type": "custom"
 		},
 		{ 
@@ -382,7 +382,7 @@
 			"names": {
 				"en-US": "Cow Hero DLC 1 - Bull Conqueror"
 			},
-			"icon": "generic",
+			"icon": "cowherodlc1",
 			"type": "custom"
 		},
 		{ 
@@ -406,7 +406,7 @@
 			"names": {
 				"en-US": "Creative Commons Hero"
 			},
-			"icon": "generic",
+			"icon": "creativech",
 			"type": "custom"
 		},
 		{ 
@@ -518,7 +518,7 @@
 			"names": {
 				"en-US": "GITADORA"
 			},
-			"icon": "generic",
+			"icon": "gd",
 			"type": "custom"
 		},
 		{ 
@@ -686,7 +686,7 @@
 			"names": {
 				"en-US": "Meme Songs"
 			},
-			"icon": "generic",
+			"icon": "meme",
 			"type": "custom"
 		},
 		{ 
