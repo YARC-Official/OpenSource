@@ -362,7 +362,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb_blitz" ], 
+			"ids": [ "rb_blitz", "rbb" ], 
 			"names": {
 				"en-US": "Rock Band Blitz"
 			},
