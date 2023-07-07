@@ -10,7 +10,7 @@
 			"type": "custom"
 		},
 		{ 
-			"ids": [ "djhero" ],
+			"ids": [ "djhero", "djh" ],
 			"names": {
 				"en-US": "DJ Hero"
 			},
