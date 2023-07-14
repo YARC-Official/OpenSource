@@ -35,7 +35,7 @@ This project is community driven! If you have a source that isn't included, plea
 
 The icons are split into two folders: `base`, and `extra`. `base` is meant for super-common, widely-used icons, and should only contain icons of official games. `extra` is meant for everything else! The reason for this is due to file sizes, and updates. In YARG, the `base` folder is included in the game, while the `extra` folder is updated and stored on its own.
 
-Everything in the `ignore` folder can be ignored, and are only used for repo stuff (like the banner in this README).
+Everything in the `ignore` folder can be ignored by the game, and are only used for repo stuff (like the banner in this README), and for the webviewer.
 
 In each of these folders, there is a `index.json` file, which contains the index of icons, IDs, and source names. Specifications for that are below.
 
