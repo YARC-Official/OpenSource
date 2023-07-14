@@ -13,6 +13,7 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 - [Verifying Indexes](#-verifying-indexes)
 - [Guidelines for Making Icons](#-guidelines-for-making-icons)
 - [Guidelines for NEW Sources](#-guidelines-for-new-sources)
+- [Webviewer](#-webviewer)
 - [License](#️-license)
 
 # 👉 Credits
@@ -35,7 +36,7 @@ This project is community driven! If you have a source that isn't included, plea
 
 The icons are split into two folders: `base`, and `extra`. `base` is meant for super-common, widely-used icons, and should only contain icons of official games. `extra` is meant for everything else! The reason for this is due to file sizes, and updates. In YARG, the `base` folder is included in the game, while the `extra` folder is updated and stored on its own.
 
-Everything in the `ignore` folder can be ignored by the game, and are only used for repo stuff (like the banner in this README), and for the webviewer.
+Everything in the `ignore` folder can be ignored by the game, and are only used for repo stuff (like the banner in this README), and for the [webviewer](https://yarc-official.github.io/OpenSource/ignore/webviewer).
 
 In each of these folders, there is a `index.json` file, which contains the index of icons, IDs, and source names. Specifications for that are below.
 
@@ -104,6 +105,10 @@ When assigning an ID to a source, **make sure to be as specific as possible**. F
 Names **should not** use trailing or leading underscores (`_`) to solve ID conflicts. That is misleading, and can cause confusion. For example, if a discography project of band named "Grave Hunter" wanted to use `gh`, but chose to use `gh_` or `_gh` as their ID since `gh` was taken, that is bad. Use `gravehunter` or `grave_hunter` instead.
 
 Charters **should always** use their full name as their ID, and only their name in the display name. For example, I should not be using "Elite's Songs" and `elites_songs`, but rather "EliteAsian" and `eliteasian`.
+
+# 🌐 Webviewer
+
+OpenSource has a webviewer which shows all of the icons, sources, names, etc. In order to access the live webview, [click here](https://yarc-official.github.io/OpenSource/ignore/webviewer).  If you want to open the webviewer that includes your custom icon, you must start a local web server. Just opening the `index.html` in your browser will not work.
 
 # 🛡️ License
 
