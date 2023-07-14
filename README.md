@@ -1,5 +1,5 @@
 # OpenSource
-OpenSource (get it?) is a large list of guitar-game source icons, and source names, in different languages!
+OpenSource (get it?) is a large list of guitar-game source icons, and source names, in different languages! [Click here](https://yarc-official.github.io/OpenSource/ignore/webviewer/) to view a live list of them!
 
 ![Banner](./ignore/banner.png)
 
