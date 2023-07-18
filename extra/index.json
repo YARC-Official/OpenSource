@@ -1139,5 +1139,21 @@
 			"icon": "ironhandhero",
 			"type": "custom"
 		}
+		{ 
+			"ids": [ "ghxsetlist" ],
+			"names": {
+				"en-US": "Guitar Hero X-II"
+			},
+			"icon": "ghx2setlist",
+			"type": "custom"
+		},
+		{ 
+			"ids": [ "cb" ],
+			"names": {
+				"en-US": "Circuit Breaker"
+			},
+			"icon": "cb",
+			"type": "custom"
+		},
 	]
 }
