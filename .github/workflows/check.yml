@@ -29,7 +29,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Validating
-        uses: lyubick/action-YAML-schema-validator@v2
+        uses: lyubick/action-YAML-schema-validator@v2.1
         with:
           json-schema-file: .vscode/opensource.schema.json
           yaml-json-file-dir: base/index.json,extra/index.json
