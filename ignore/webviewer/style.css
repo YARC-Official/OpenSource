@@ -1,0 +1,31 @@
+body {
+	font-family: arial, sans-serif;
+	font-size: 1.25em;
+	background: #333;
+	color: white;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td,
+th {
+	border: 1px solid #000;
+	text-align: left;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #222;
+}
+
+img {
+	width: 32px;
+	transition: width 0.5s;
+}
+
+img:hover {
+	width: 256px;
+}

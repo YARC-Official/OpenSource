@@ -294,7 +294,7 @@
 			"names": {
 				"en-US": "Rock Band Rivals"
 			},
-			"icon": "rbdlc",
+			"icon": "rb4rivals",
 			"type": "rb"
 		},
 		{
@@ -314,7 +314,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rbacdc" ], 
+			"ids": [ "rbacdc", "rbtp_acdc" ], 
 			"names": {
 				"en-US": "AC/DC Live: Rock Band Track Pack"
 			},
