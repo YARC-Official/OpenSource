@@ -1155,5 +1155,13 @@
 			"icon": "cb",
 			"type": "custom"
 		},
+		{
+			"ids": [ "solomedley" ],
+			"names": {
+				"en-US": "Solo Medleys"
+			},
+			"icon": "solomedley",
+			"type": "custom"
+		},
 	]
 }
