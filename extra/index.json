@@ -438,7 +438,7 @@
 			"names": {
 				"en-US": "Djent Hero"
 			},
-			"icon": "generic",
+			"icon": "djenth",
 			"type": "custom"
 		},
 		{ 
@@ -446,7 +446,7 @@
 			"names": {
 				"en-US": "Djent Hero Collection"
 			},
-			"icon": "generic",
+			"icon": "dhc",
 			"type": "custom"
 		},
 		{ 
@@ -454,7 +454,7 @@
 			"names": {
 				"en-US": "Djent Hero DLC"
 			},
-			"icon": "generic",
+			"icon": "djenthdlc",
 			"type": "custom"
 		},
 		{ 
@@ -710,7 +710,7 @@
 			"names": {
 				"en-US": "Paradigm"
 			},
-			"icon": "generic",
+			"icon": "paradigm",
 			"type": "custom"
 		},
 		{ 
