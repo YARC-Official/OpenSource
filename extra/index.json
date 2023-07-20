@@ -302,7 +302,7 @@
 			"names": {
 				"en-US": "Circuit Breaker"
 			},
-			"icon": "generic",
+			"icon": "cb",
 			"type": "custom"
 		},
 		{ 
@@ -478,7 +478,7 @@
 			"names": {
 				"en-US": "Focal Point"
 			},
-			"icon": "generic",
+			"icon": "fp",
 			"type": "custom"
 		},
 		{ 
@@ -486,7 +486,7 @@
 			"names": {
 				"en-US": "Focal Point 2"
 			},
-			"icon": "generic",
+			"icon": "fp2",
 			"type": "custom"
 		},
 		{ 
@@ -566,7 +566,7 @@
 			"names": {
 				"en-US": "Guitar Hero X-II"
 			},
-			"icon": "generic",
+			"icon": "ghx2setlist",
 			"type": "custom"
 		},
 		{ 
@@ -862,7 +862,7 @@
 			"names": {
 				"en-US": "Solo Medleys"
 			},
-			"icon": "generic",
+			"icon": "solomedley",
 			"type": "custom"
 		},
 		{ 
