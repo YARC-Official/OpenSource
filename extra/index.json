@@ -1163,5 +1163,21 @@
 			"icon": "solomedley",
 			"type": "custom"
 		},
+		{
+			"ids": [ "fp" ],
+			"names": {
+				"en-US": "Focal Point"
+			},
+			"icon": "fp",
+			"type": "custom"
+		},
+		{
+			"ids": [ "fp2" ],
+			"names": {
+				"en-US": "Focal Point 2"
+			},
+			"icon": "fp2",
+			"type": "custom"
+		}
 	]
 }
