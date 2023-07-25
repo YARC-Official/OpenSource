@@ -294,7 +294,7 @@
 			"names": {
 				"en-US": "Chel Hero"
 			},
-			"icon": "generic",
+			"icon": "chelhero",
 			"type": "custom"
 		},
 		{ 
@@ -438,7 +438,7 @@
 			"names": {
 				"en-US": "Djent Hero"
 			},
-			"icon": "generic",
+			"icon": "djenth",
 			"type": "custom"
 		},
 		{ 
@@ -446,7 +446,7 @@
 			"names": {
 				"en-US": "Djent Hero Collection"
 			},
-			"icon": "generic",
+			"icon": "dhc",
 			"type": "custom"
 		},
 		{ 
@@ -454,7 +454,7 @@
 			"names": {
 				"en-US": "Djent Hero DLC"
 			},
-			"icon": "generic",
+			"icon": "djenthdlc",
 			"type": "custom"
 		},
 		{ 
@@ -590,7 +590,7 @@
 			"names": {
 				"en-US": "Guitar Praise: Stryper"
 			},
-			"icon": "generic",
+			"icon": "stryper",
 			"type": "custom"
 		},
 		{ 
@@ -710,7 +710,7 @@
 			"names": {
 				"en-US": "Paradigm"
 			},
-			"icon": "generic",
+			"icon": "paradigm",
 			"type": "custom"
 		},
 		{ 
@@ -878,7 +878,7 @@
 			"names": {
 				"en-US": "Symphonic Effect"
 			},
-			"icon": "generic",
+			"icon": "se",
 			"type": "custom"
 		},
 		{ 
@@ -1032,7 +1032,7 @@
 			"names": {
 				"en-US": "Mania Hero"
 			},
-			"icon": "generic",
+			"icon": "maniahero",
 			"type": "custom"
 		},
 		{
@@ -1138,6 +1138,14 @@
 			},
 			"icon": "ironhandhero",
 			"type": "custom"
-		}
+		},
+		{
+			"ids": [ "cosmiclatte" ],
+			"names": {
+				"en-US": "Cosmic Latte"
+			},
+			"icon": "cosmiclatte",
+			"type": "charter"
+		}		
 	]
 }
