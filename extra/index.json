@@ -1154,6 +1154,14 @@
 			},
 			"icon": "cosmiclatte",
 			"type": "charter"
+		},
+		{
+			"ids": [ "brick" ],
+			"names": {
+				"en-US": "Brick"
+			},
+			"icon": "brick",
+			"type": "custom"
 		}		
 	]
 }
