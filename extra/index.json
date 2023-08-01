@@ -26,6 +26,14 @@
 			"type": "gh"
 		},
 		{
+			"ids": [ "bhdlc" ],
+			"names": {
+				"en-US": "Band Hero DLC"
+			},
+			"icon": "bh",
+			"type": "gh"
+		},
+		{
 			"ids": [ "rbtp_vol_1"], 
 			"names": {
 				"en-US": "Rock Band Track Pack Vol. 1"
@@ -294,7 +302,7 @@
 			"names": {
 				"en-US": "Chel Hero"
 			},
-			"icon": "generic",
+			"icon": "chelhero",
 			"type": "custom"
 		},
 		{ 
@@ -302,7 +310,7 @@
 			"names": {
 				"en-US": "Circuit Breaker"
 			},
-			"icon": "generic",
+			"icon": "cb",
 			"type": "custom"
 		},
 		{ 
@@ -478,7 +486,7 @@
 			"names": {
 				"en-US": "Focal Point"
 			},
-			"icon": "generic",
+			"icon": "fp",
 			"type": "custom"
 		},
 		{ 
@@ -486,7 +494,7 @@
 			"names": {
 				"en-US": "Focal Point 2"
 			},
-			"icon": "generic",
+			"icon": "fp2",
 			"type": "custom"
 		},
 		{ 
@@ -566,7 +574,7 @@
 			"names": {
 				"en-US": "Guitar Hero X-II"
 			},
-			"icon": "generic",
+			"icon": "ghx2setlist",
 			"type": "custom"
 		},
 		{ 
@@ -590,7 +598,7 @@
 			"names": {
 				"en-US": "Guitar Praise: Stryper"
 			},
-			"icon": "generic",
+			"icon": "stryper",
 			"type": "custom"
 		},
 		{ 
@@ -630,7 +638,7 @@
 			"names": {
 				"en-US": "J-Rock Band"
 			},
-			"icon": "generic",
+			"icon": "jrb",
 			"type": "custom"
 		},
 		{ 
@@ -862,7 +870,7 @@
 			"names": {
 				"en-US": "Solo Medleys"
 			},
-			"icon": "generic",
+			"icon": "solomedley",
 			"type": "custom"
 		},
 		{ 
@@ -878,7 +886,7 @@
 			"names": {
 				"en-US": "Symphonic Effect"
 			},
-			"icon": "generic",
+			"icon": "se",
 			"type": "custom"
 		},
 		{ 
@@ -1032,7 +1040,7 @@
 			"names": {
 				"en-US": "Mania Hero"
 			},
-			"icon": "generic",
+			"icon": "maniahero",
 			"type": "custom"
 		},
 		{
@@ -1138,6 +1146,22 @@
 			},
 			"icon": "ironhandhero",
 			"type": "custom"
-		}
+		},
+		{
+			"ids": [ "cosmiclatte" ],
+			"names": {
+				"en-US": "Cosmic Latte"
+			},
+			"icon": "cosmiclatte",
+			"type": "charter"
+		},
+		{
+			"ids": [ "brick" ],
+			"names": {
+				"en-US": "Brick"
+			},
+			"icon": "brick",
+			"type": "custom"
+		}		
 	]
 }
