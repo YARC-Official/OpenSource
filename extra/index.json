@@ -198,7 +198,7 @@
 			"names": {
 				"en-US": "Black Hole"
 			},
-			"icon": "generic",
+			"icon": "blackhole",
 			"type": "custom"
 		},
 		{ 
@@ -334,7 +334,7 @@
 			"names": {
 				"en-US": "Community Track Pack I"
 			},
-			"icon": "generic",
+			"icon": "comtpi",
 			"type": "custom"
 		},
 		{ 
@@ -342,7 +342,7 @@
 			"names": {
 				"en-US": "Community Track Pack II"
 			},
-			"icon": "generic",
+			"icon": "comtpii",
 			"type": "custom"
 		},
 		{ 
@@ -350,7 +350,7 @@
 			"names": {
 				"en-US": "Community Track Pack III"
 			},
-			"icon": "generic",
+			"icon": "comtpiii",
 			"type": "custom"
 		},
 		{ 
@@ -358,7 +358,7 @@
 			"names": {
 				"en-US": "Community Track Pack IV"
 			},
-			"icon": "generic",
+			"icon": "comtpiv",
 			"type": "custom"
 		},
 		{ 
@@ -366,7 +366,7 @@
 			"names": {
 				"en-US": "Community Track Pack 4.5"
 			},
-			"icon": "generic",
+			"icon": "comtp45",
 			"type": "custom"
 		},
 		{ 
@@ -374,7 +374,7 @@
 			"names": {
 				"en-US": "Community Track Pack V"
 			},
-			"icon": "generic",
+			"icon": "comtpv",
 			"type": "custom"
 		},
 		{ 
@@ -518,7 +518,7 @@
 			"names": {
 				"en-US": "Fuse Box"
 			},
-			"icon": "generic",
+			"icon": "fusebox",
 			"type": "custom"
 		},
 		{ 
