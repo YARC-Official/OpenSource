@@ -1,5 +1,14 @@
 // @ts-check
 
+/** @type {{[key in SourceTypes]: string}} */
+const types = {
+	"gh": "Guitar Hero",
+	"rb": "Rock Band",
+	"game": "Games",
+	"charter": "Charter",
+	"custom": "Custom"
+}
+
 class SourceElement extends HTMLElement {
 	/** @param {Source} source */
 	constructor(source) {
@@ -71,9 +80,85 @@ if ('customElements' in window) {
 }
 
 /**
+ * Creates a type section
+ * @param {string} id 
+ * @param {string} name 
+ */
+function createTypeElement(id, name) {
+	const typesContainer = document.getElementById("types");
+
+	const container = getTemplate("type_template");
+
+	if(container) {
+		container.id = id;
+		const nameContainer = container.querySelector(".name");
+		nameContainer?.replaceChildren(new Text(name));
+
+		typesContainer?.append(container);
+	}
+}
+
+/**
+ * Creates a new stat for a type.
+ * @param {string} id 
+ * @param {string} name 
+ */
+function createStatElement(id, name) {
+	const statsContainer = document.getElementById("stats");
+
+	const container = getTemplate("stat_template");
+
+	if(container) {
+		container.id = `${id}-stat`;
+
+		const nameContainer = container.querySelector(".name");
+		nameContainer?.replaceChildren(new Text(name));
+
+		statsContainer?.append(container);
+	}
+}
+
+/**
+ * Creates a clone from template
+ * @param {string} templateId 
+ * @returns {HTMLElement|undefined}
+ */
+function getTemplate(templateId) {
+	const template = document.getElementById(templateId);
+	if(!(template instanceof HTMLTemplateElement)) throw new Error(`${templateId} not existent on DOM`);
+	
+	const container = template.content.firstElementChild?.cloneNode(true);
+
+	if(container instanceof HTMLElement) {
+		return container;
+	}
+
+	return;
+}
+
+function processTypes() {
+	Object.keys(types).forEach(type => {
+		const typeName = types[type];
+
+		createTypeElement(type, typeName);
+		createStatElement(type, typeName);
+	});
+}
+
+processTypes();
+
+/**
+ * Type definitions
+ */
+
+/**
  * @typedef {Object} Source
  * @property {string[]} ids - An array of IDs.
  * @property {{"en-US": string, [key: string]: string }} names - Object containing the source name in different languages.
  * @property {string} icon - The icon for the source.
- * @property {"custom"|"game"|"charter"|"rb"|"gh"} type - The type of the source.
+ * @property {SourceTypes} type - The type of the source.
+ */
+
+/**
+ * @typedef {"custom"|"game"|"charter"|"rb"|"gh"} SourceTypes
  */
