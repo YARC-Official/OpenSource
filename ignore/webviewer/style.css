@@ -146,6 +146,11 @@ open-source {
 open-source > .icon {
 	height: 32px;
 	aspect-ratio: 1;
+	transition: height .5s ease;
+}
+
+open-source > .icon:hover {
+	height: 256px;
 }
 
 open-source > .icon img {
