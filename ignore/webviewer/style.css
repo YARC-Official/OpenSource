@@ -58,7 +58,6 @@ header {
     --backgroundSize: 1820px;
     background-size: var(--backgroundSize);
     transform: rotate(357deg);
-    animation: infiniteHeader 100s infinite linear;
     opacity: 0.2;
 }
 
@@ -211,5 +210,11 @@ open-source > .info > .tags > .tag {
 
 	100% {
 		background-position-x: var(--backgroundSize);
+	}
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.background-header .animation {
+	    animation: infiniteHeader 100s infinite linear;
 	}
 }
