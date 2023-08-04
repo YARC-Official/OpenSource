@@ -11,6 +11,7 @@
 
 	--font: 'Red Hat Display', sans-serif;
 	--borderColor: #13151D;
+	--borderColor_hover: #3d404d;
 }
 
 html {
@@ -70,7 +71,7 @@ header > .title {
 	text-transform: uppercase;
 	font-weight: 900;
 	font-style: italic;
-	font-size: 70px;
+	font-size: min(max(12vw, 35px), 70px);
 	line-height: 70px;
 	margin-bottom: 10px;
 }
@@ -103,6 +104,11 @@ header > .description {
 	flex: 1;
 	padding: 25px;
 	text-align: center;
+	transition: border-color .3s ease;
+}
+
+.stat:hover {
+	border-color: var(--borderColor_hover);
 }
 
 .stat .counter {
@@ -119,16 +125,11 @@ header > .description {
 	font-weight: 600;
 }
 
-.types {
-	display: flex;
-	flex-direction: column;
-	gap: 50px;
-}
-
 .type {
 	display: flex;
 	flex-direction: column;
 	gap: 25px;
+	margin: 25px 0px;
 }
 
 .type > .name {
@@ -141,7 +142,7 @@ header > .description {
 .sources {
 	display: grid;
 	gap: 25px;
-	grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(min(85vw, 400px), 1fr));
 }
 
 open-source {
@@ -151,6 +152,11 @@ open-source {
 	display: flex;
 	align-items: center;
 	gap: 20px;
+	transition: border-color .3s ease;
+}
+
+open-source:hover {
+	border-color: var(--borderColor_hover);
 }
 
 open-source > .icon {
