@@ -1,70 +1,79 @@
-// ==== LOAD SOURCES ==== //
+// @ts-check
 
-let sources = [];
+class SourceElement extends HTMLElement {
+	/** @param {Source} source */
+	constructor(source) {
+		super();
 
-Promise.all([
-	fetch("../../base/index.json").then(i => i.json()),
-	fetch("../../extra/index.json").then(i => i.json()),
-]).then(indexes => {
-	// Consolidate into one list
-	sources = indexes.flatMap((i, index) => i.sources.map(j => {
-		j.from = index;
-		return j;
-	}));
+		const template = document.getElementById("source_template");
+        if(!(template instanceof HTMLTemplateElement)) throw new Error("Source template not existent on DOM");
 
-	// Create list after everything is loaded
-	createList();
-});
+        this.replaceChildren(template.content.cloneNode(true));
 
-// ==== CREATE LIST ==== //
-
-function createList() {
-	const container = document.getElementById("table");
-
-	for (const source of sources) {
-		const urls = [
-			`../../base/icons/${source.icon}.png`,
-			`../../extra/icons/${source.icon}.png`
-		];
-
-		createIconHolder(source.ids, source.names["en-US"], urls[source.from], urls[1 - source.from], source.type);
+		this.assignIcon(source.icon);
+		this.assignName(source.names["en-US"]);
+		this.assignTags(source.ids);
 	}
 
-	function createIconHolder(idsIn, nameIn, iconIn, altIconIn, typeIn) {
-		let row = document.createElement("tr");
+	/**
+	 * @param {string} iconName 
+	 */
+	assignIcon(iconName) {
+		const iconContainer = this.querySelector("picture");
+		if(!iconContainer) return;
 
-		// Icon(s)
-		// Load both the base and extra icon
-		// Which everone works is the correct one 
-		let iconData = document.createElement("td");
-		let icon = document.createElement("img");
-		icon.src = iconIn;
-		icon.onerror = function () {
-			this.src = altIconIn;
-			this.onerror = null;
+		const primary = `../../base/icons/${iconName}.png`;
+		const secondary = `../../extra/icons/${iconName}.png`;
+
+		const primaryImageElement = iconContainer.querySelector("img");
+		if(primaryImageElement) {
+			primaryImageElement.src = primary;
 		}
-		iconData.appendChild(icon);
-		row.appendChild(iconData);
 
-		// Possible IDs
-		let ids = document.createElement("td");
-		for (const id of idsIn) {
-			let p = document.createElement("p");
-			p.textContent = id;
-			ids.appendChild(p);
+		const secondImageElement = iconContainer.querySelector("source");
+		if(secondImageElement) {
+			secondImageElement.srcset = secondary;
 		}
-		row.appendChild(ids);
-
-		// Name (en-US)
-		let name = document.createElement("td");
-		name.textContent = nameIn;
-		row.appendChild(name);
-
-		// Type (type)
-		let type = document.createElement("td");
-		type.textContent = typeIn;
-		row.appendChild(type);
-
-		container.appendChild(row);
 	}
+
+	/**
+	 * @param {string} sourceName 
+	 */
+	assignName(sourceName) {
+		const nameContainer = this.querySelector(".name");
+		if(!nameContainer) return;
+
+		nameContainer.textContent = sourceName;
+	}
+
+	/**
+	 * @param {string[]} tags 
+	 */
+	assignTags(tags) {
+		const tagsContainer = this.querySelector(".tags");
+		if(!tagsContainer) return;
+
+		const tagsElements = tags.map(tagName => {
+			const tagElement = document.createElement("div");
+			tagElement.classList.add("tag");
+
+			tagElement.textContent = tagName;
+			return tagElement;
+		});
+
+		tagsContainer.append(...tagsElements);
+	}
+
 }
+
+if ('customElements' in window) {
+	customElements.define('open-source', SourceElement);
+}
+
+/**
+ * @typedef {Object} Source
+ * @property {string[]} ids - An array of IDs.
+ * @property {{"en-US": string, [key: string]: string }} names - Object containing the source name in different languages.
+ * @property {string} icon - The icon for the source.
+ * @property {"custom"|"game"|"charter"|"rb"|"gh"} type - The type of the source.
+ */
