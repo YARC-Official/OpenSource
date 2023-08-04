@@ -119,6 +119,11 @@ function createStatElement(id, name) {
 		const nameContainer = container.querySelector(".name");
 		nameContainer?.replaceChildren(new Text(name));
 
+		const linkElement = container.querySelector("a");
+		if(linkElement) {
+			linkElement.href = `#${id}`;
+		}
+
 		statsContainer?.append(container);
 	}
 }
@@ -174,7 +179,7 @@ async function loadSources() {
  */
 function refreshStatCount(typeId) {
 	const sourcesContainer = document.querySelector(`#${typeId} > .sources`);
-	const counterContainer = document.querySelector(`#${typeId}-stat > .counter`);
+	const counterContainer = document.querySelector(`#${typeId}-stat .counter`);
 	if(!sourcesContainer || !counterContainer) throw new Error();
 
 	const count = sourcesContainer.childElementCount;
