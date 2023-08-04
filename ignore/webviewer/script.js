@@ -28,20 +28,20 @@ class SourceElement extends HTMLElement {
 	 * @param {string} iconName 
 	 */
 	assignIcon(iconName) {
-		const iconContainer = this.querySelector("picture");
+		const iconContainer = this.querySelector(".icon");
 		if(!iconContainer) return;
 
 		const primary = `../../base/icons/${iconName}.png`;
 		const secondary = `../../extra/icons/${iconName}.png`;
 
-		const primaryImageElement = iconContainer.querySelector("img");
-		if(primaryImageElement) {
-			primaryImageElement.src = primary;
-		}
+		const imageElement = iconContainer.querySelector("img");
+		if(imageElement) {
+			imageElement.src = primary;
 
-		const secondImageElement = iconContainer.querySelector("source");
-		if(secondImageElement) {
-			secondImageElement.srcset = secondary;
+			imageElement.onerror = () => {
+				imageElement.src = secondary;
+				imageElement.onerror = null;
+			}
 		}
 	}
 
