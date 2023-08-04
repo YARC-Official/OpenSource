@@ -1,20 +1,7 @@
+## FORK BY yoitsOJ, GO to [THIS LINK](https://github.com/YARC-Official/OpenSource) FOR THE OFFICIAL REPO
+
 # OpenSource
-OpenSource (get it?) is a large list of guitar-game source icons, and source names, in different languages! [Click here](https://yarc-official.github.io/OpenSource/ignore/webviewer/) to view a live list of them!
-
-![Banner](./ignore/banner.png)
-
-# 📃 Table of Contents
-
-- [Credits](#-credits)
-- [Contributing](#️-contributing)
-- [Specifications for Use](#-specifications-for-use)
-  - [`index.json`](#indexjson)
-  - [`Source`](#source)
-- [Verifying Indexes](#-verifying-indexes)
-- [Guidelines for Making Icons](#-guidelines-for-making-icons)
-- [Guidelines for NEW Sources](#-guidelines-for-new-sources)
-- [Webviewer](#-webviewer)
-- [License](#️-license)
+OpenSource is a large list of guitar-game source icons, and source names, in different languages! [Click here](https://yarc-official.github.io/OpenSource/ignore/webviewer/) to view a live list of them!
 
 # 👉 Credits
 
