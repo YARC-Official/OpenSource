@@ -53,6 +53,11 @@ class SourceElement extends HTMLElement {
 		if(!nameContainer) return;
 
 		nameContainer.textContent = sourceName;
+
+		const imageContainer = this.querySelector("img");
+		if(imageContainer) {
+			imageContainer.alt = `${sourceName} icon`;
+		}
 	}
 
 	/**
