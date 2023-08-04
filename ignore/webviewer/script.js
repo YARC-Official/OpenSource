@@ -145,7 +145,39 @@ function processTypes() {
 	});
 }
 
+async function loadSources() {
+	const base = await fetch("../../base/index.json").then(res => res.json());
+	const extra = await fetch("../../extra/index.json").then(res => res.json());
+
+	[base, extra].forEach(sourceList => {
+		sourceList.sources.forEach(
+			/** @param {Source} source  */
+			source => {
+				const sourceElement = new SourceElement(source);
+				const typeContainer = document.querySelector(`#${source.type} > .sources`);
+				typeContainer?.append(sourceElement);
+
+				refreshStatCount(source.type);
+			}
+		);
+	});
+}
+
+/**
+ * Counts all sources in a type section and changes the stat count
+ * @param {SourceTypes} typeId 
+ */
+function refreshStatCount(typeId) {
+	const sourcesContainer = document.querySelector(`#${typeId} > .sources`);
+	const counterContainer = document.querySelector(`#${typeId}-stat > .counter`);
+	if(!sourcesContainer || !counterContainer) throw new Error();
+
+	const count = sourcesContainer.childElementCount;
+	counterContainer.replaceChildren(new Text(count.toString()));
+}
+
 processTypes();
+loadSources();
 
 /**
  * Type definitions
