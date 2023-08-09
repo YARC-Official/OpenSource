@@ -30,7 +30,7 @@
 			"names": {
 				"en-US": "Band Hero DLC"
 			},
-			"icon": "bh",
+			"icon": "bhdlc",
 			"type": "gh"
 		},
 		{
@@ -934,7 +934,7 @@
 			"names": {
 				"en-US": "Zero Gravity"
 			},
-			"icon": "generic",
+			"icon": "zerogravity",
 			"type": "custom"
 		},
 		{ 
