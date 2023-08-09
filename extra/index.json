@@ -774,7 +774,7 @@
 			"names": {
 				"en-US": "PowerGig: Rise of the SixString DLC"
 			},
-			"icon": "pg",
+			"icon": "pgdlc",
 			"type": "game"
 		},
 		{ 
@@ -846,7 +846,7 @@
 			"names": {
 				"en-US": "Rock Revolution DLC"
 			},
-			"icon": "rr",
+			"icon": "rrdlc",
 			"type": "game"
 		},
 		{ 
