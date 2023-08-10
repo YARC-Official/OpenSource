@@ -26,6 +26,14 @@
 			"type": "gh"
 		},
 		{
+			"ids": [ "bhdlc" ],
+			"names": {
+				"en-US": "Band Hero DLC"
+			},
+			"icon": "bhdlc",
+			"type": "gh"
+		},
+		{
 			"ids": [ "rbtp_vol_1"], 
 			"names": {
 				"en-US": "Rock Band Track Pack Vol. 1"
@@ -190,7 +198,7 @@
 			"names": {
 				"en-US": "Black Hole"
 			},
-			"icon": "generic",
+			"icon": "blackhole",
 			"type": "custom"
 		},
 		{ 
@@ -198,7 +206,7 @@
 			"names": {
 				"en-US": "Blanket Statement"
 			},
-			"icon": "generic",
+			"icon": "bstatement",
 			"type": "custom"
 		},
 		{ 
@@ -294,7 +302,7 @@
 			"names": {
 				"en-US": "Chel Hero"
 			},
-			"icon": "generic",
+			"icon": "chelhero",
 			"type": "custom"
 		},
 		{ 
@@ -311,7 +319,7 @@
 				"en-US": "Clone Hero"
 			},
 			"icon": "clonehero",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "codered" ],
@@ -326,7 +334,7 @@
 			"names": {
 				"en-US": "Community Track Pack I"
 			},
-			"icon": "generic",
+			"icon": "comtpi",
 			"type": "custom"
 		},
 		{ 
@@ -334,7 +342,7 @@
 			"names": {
 				"en-US": "Community Track Pack II"
 			},
-			"icon": "generic",
+			"icon": "comtpii",
 			"type": "custom"
 		},
 		{ 
@@ -342,7 +350,7 @@
 			"names": {
 				"en-US": "Community Track Pack III"
 			},
-			"icon": "generic",
+			"icon": "comtpiii",
 			"type": "custom"
 		},
 		{ 
@@ -350,7 +358,7 @@
 			"names": {
 				"en-US": "Community Track Pack IV"
 			},
-			"icon": "generic",
+			"icon": "comtpiv",
 			"type": "custom"
 		},
 		{ 
@@ -358,7 +366,7 @@
 			"names": {
 				"en-US": "Community Track Pack 4.5"
 			},
-			"icon": "generic",
+			"icon": "comtp45",
 			"type": "custom"
 		},
 		{ 
@@ -366,7 +374,7 @@
 			"names": {
 				"en-US": "Community Track Pack V"
 			},
-			"icon": "generic",
+			"icon": "comtpv",
 			"type": "custom"
 		},
 		{ 
@@ -438,7 +446,7 @@
 			"names": {
 				"en-US": "Djent Hero"
 			},
-			"icon": "generic",
+			"icon": "djenth",
 			"type": "custom"
 		},
 		{ 
@@ -446,7 +454,7 @@
 			"names": {
 				"en-US": "Djent Hero Collection"
 			},
-			"icon": "generic",
+			"icon": "dhc",
 			"type": "custom"
 		},
 		{ 
@@ -454,7 +462,7 @@
 			"names": {
 				"en-US": "Djent Hero DLC"
 			},
-			"icon": "generic",
+			"icon": "djenthdlc",
 			"type": "custom"
 		},
 		{ 
@@ -503,14 +511,14 @@
 				"en-US": "Frets on Fire"
 			},
 			"icon": "fof",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "fuse" ],
 			"names": {
 				"en-US": "Fuse Box"
 			},
-			"icon": "generic",
+			"icon": "fusebox",
 			"type": "custom"
 		},
 		{ 
@@ -527,7 +535,7 @@
 				"en-US": "GuitarFreaks"
 			},
 			"icon": "generic",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "gf2dm1" ],
@@ -535,7 +543,7 @@
 				"en-US": "GuitarFreaks 2ndMIX & DrumMania"
 			},
 			"icon": "generic",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "addygh" ],
@@ -550,7 +558,7 @@
 			"names": {
 				"en-US": "Guitar Hero To Rock Band 3"
 			},
-			"icon": "generic",
+			"icon": "ghtorb3",
 			"type": "custom"
 		},
 		{ 
@@ -575,7 +583,7 @@
 				"en-US": "Guitar Praise"
 			},
 			"icon": "praise",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "praisedlc" ],
@@ -583,15 +591,15 @@
 				"en-US": "Guitar Praise: Expansion Pack 1"
 			},
 			"icon": "generic",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "stryper" ],
 			"names": {
 				"en-US": "Guitar Praise: Stryper"
 			},
-			"icon": "generic",
-			"type": "custom"
+			"icon": "stryper",
+			"type": "game"
 		},
 		{ 
 			"ids": [ "guitarzero2" ],
@@ -630,7 +638,7 @@
 			"names": {
 				"en-US": "J-Rock Band"
 			},
-			"icon": "generic",
+			"icon": "jrb",
 			"type": "custom"
 		},
 		{ 
@@ -710,7 +718,7 @@
 			"names": {
 				"en-US": "Paradigm"
 			},
-			"icon": "generic",
+			"icon": "paradigm",
 			"type": "custom"
 		},
 		{ 
@@ -766,7 +774,7 @@
 			"names": {
 				"en-US": "PowerGig: Rise of the SixString DLC"
 			},
-			"icon": "pg",
+			"icon": "pgdlc",
 			"type": "game"
 		},
 		{ 
@@ -838,7 +846,7 @@
 			"names": {
 				"en-US": "Rock Revolution DLC"
 			},
-			"icon": "rr",
+			"icon": "rrdlc",
 			"type": "game"
 		},
 		{ 
@@ -878,7 +886,7 @@
 			"names": {
 				"en-US": "Symphonic Effect"
 			},
-			"icon": "generic",
+			"icon": "se",
 			"type": "custom"
 		},
 		{ 
@@ -918,7 +926,7 @@
 			"names": {
 				"en-US": "Zancharted"
 			},
-			"icon": "generic",
+			"icon": "zancharted",
 			"type": "custom"
 		},
 		{ 
@@ -926,7 +934,7 @@
 			"names": {
 				"en-US": "Zero Gravity"
 			},
-			"icon": "generic",
+			"icon": "zerogravity",
 			"type": "custom"
 		},
 		{ 
@@ -1032,7 +1040,7 @@
 			"names": {
 				"en-US": "Mania Hero"
 			},
-			"icon": "generic",
+			"icon": "maniahero",
 			"type": "custom"
 		},
 		{
@@ -1138,6 +1146,22 @@
 			},
 			"icon": "ironhandhero",
 			"type": "custom"
-		}
+		},
+		{
+			"ids": [ "cosmiclatte" ],
+			"names": {
+				"en-US": "Cosmic Latte"
+			},
+			"icon": "cosmiclatte",
+			"type": "charter"
+		},
+		{
+			"ids": [ "brick" ],
+			"names": {
+				"en-US": "Brick"
+			},
+			"icon": "brick",
+			"type": "custom"
+		}		
 	]
 }

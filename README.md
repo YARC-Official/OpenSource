@@ -27,6 +27,8 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 - [NevesPT](https://github.com/nevespt)
 - [SolemnSpirit](https://github.com/SolemnSpirit)
 - [Frickitickitavi](https://github.com/Frickitickitavi)
+- [yoitsOJ](https://github.com/yoitsOJ)
+- [themasterofjohns](https://github.com/themasterofjohns)
 
 # ✍️ Contributing
 

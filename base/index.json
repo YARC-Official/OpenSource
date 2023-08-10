@@ -38,7 +38,7 @@
 			"names": {
 				"en-US": "Guitar Hero II DLC"
 			},
-			"icon": "gh2",
+			"icon": "gh2dlc",
 			"type": "gh"
 		},
 		{
@@ -46,15 +46,15 @@
 			"names": {
 				"en-US": "Guitar Hero II Deluxe"
 			},
-			"icon": "gh2",
+			"icon": "gh2dx",
 			"type": "gh"
 		},
 		{
 			"ids": [ "gh2dxdlc" ],
 			"names": {
-				"en-US": "Guitar Hero Rocks the 360"
+				"en-US": "Guitar Hero II Deluxe DLC"
 			},
-			"icon": "gh2",
+			"icon": "gh2dxdlc",
 			"type": "gh"
 		},
 		{
@@ -70,7 +70,7 @@
 			"names": {
 				"en-US": "Guitar Hero Encore Deluxe"
 			},
-			"icon": "gh80s",
+			"icon": "gh80sdx",
 			"type": "gh"
 		},
 		{
@@ -86,7 +86,7 @@
 			"names": {
 				"en-US": "Guitar Hero III DLC"
 			},
-			"icon": "gh3",
+			"icon": "gh3dlc",
 			"type": "gh"
 		},
 		{
@@ -118,7 +118,7 @@
 			"names": {
 				"en-US": "Guitar Hero: World Tour DLC"
 			},
-			"icon": "ghwt",
+			"icon": "ghwtdlc",
 			"type": "gh"
 		},
 		{
@@ -134,7 +134,7 @@
 			"names": {
 				"en-US": "Death Magnetic DLC"
 			},
-			"icon": "ghm",
+			"icon": "ghmdlc",
 			"type": "gh"
 		},
 		{
@@ -150,7 +150,7 @@
 			"names": {
 				"en-US": "Guitar Hero: Warriors of Rock DLC"
 			},
-			"icon": "ghwor",
+			"icon": "ghwordlc",
 			"type": "gh"
 		},
 		{
@@ -182,7 +182,7 @@
 			"names": {
 				"en-US": "Guitar Hero 5 DLC"
 			},
-			"icon": "gh5",
+			"icon": "gh5dlc",
 			"type": "gh"
 		},
 		{
@@ -238,7 +238,7 @@
 			"names": {
 				"en-US": "Rock Band 1 DLC"
 			},
-			"icon": "rbdlc",
+			"icon": "rb1dlc",
 			"type": "rb"
 		},
 		{
@@ -254,7 +254,7 @@
 			"names": {
 				"en-US": "Rock Band 2 DLC"
 			},
-			"icon": "rbdlc",
+			"icon": "rb2dlc",
 			"type": "rb"
 		},
 		{
@@ -270,7 +270,7 @@
 			"names": {
 				"en-US": "Rock Band 3 DLC"
 			},
-			"icon": "rbdlc",
+			"icon": "rb3dlc",
 			"type": "rb"
 		},
 		{
@@ -286,7 +286,7 @@
 			"names": {
 				"en-US": "Rock Band 4 DLC"
 			},
-			"icon": "rbdlc",
+			"icon": "rb4dlc",
 			"type": "rb"
 		},
 		{
@@ -310,7 +310,7 @@
 			"names": {
 				"en-US": "The Beatles: Rock Band DLC"
 			},
-			"icon": "tbrb",
+			"icon": "tbrbdlc",
 			"type": "rb"
 		},
 		{
@@ -375,6 +375,14 @@
 				"en-US": "Green Day: Rock Band"
 			},
 			"icon": "gdrb",
+			"type": "rb"
+		},
+		{
+			"ids": [ "gdrbdlc", "gdrbp", "gdrb_plus" ],
+			"names": {
+				"en-US": "Green Day: Rock Band DLC"
+			},
+			"icon": "gdrbdlc",
 			"type": "rb"
 		}
 	]
