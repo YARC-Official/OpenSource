@@ -814,7 +814,7 @@
 			"names": {
 				"en-US": "Rage Quit"
 			},
-			"icon": "generic",
+			"icon": "ragequit",
 			"type": "custom"
 		},
 		{ 
