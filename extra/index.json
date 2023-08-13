@@ -1162,6 +1162,32 @@
 			},
 			"icon": "brick",
 			"type": "custom"
-		}		
+		},
+		{
+			"ids": [ "lisarb", "lisarb1" ],
+			"names": {
+				"en-US": "Lisarb 1",
+				"pt-BR": "Lisarb 1: A Lenda Brazuca"
+			},
+			"icon": "lisarb",
+			"type": "custom"
+		},
+		{
+			"ids": [ "lisarb2" ],
+			"names": {
+				"en-US": "Lisarb 2",
+				"pt-BR": "Lisarb 2: Mais do que Samba e Futebol"
+			},
+			"icon": "lisarb2",
+			"type": "custom"
+		},
+		{
+			"ids": [ "lisarb3" ],
+			"names": {
+				"en-US": "Lisarb 3"
+			},
+			"icon": "lisarb3",
+			"type": "custom"
+		}
 	]
 }
