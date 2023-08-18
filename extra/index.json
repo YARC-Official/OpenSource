@@ -588,6 +588,14 @@
 		{ 
 			"ids": [ "praisedlc" ],
 			"names": {
+				"en-US": "Guitar Praise DLC"
+			},
+			"icon": "praisedlc",
+			"type": "game"
+		},
+		{
+			"ids": [ "praiseexpansion" ],
+			"names": {
 				"en-US": "Guitar Praise: Expansion Pack 1"
 			},
 			"icon": "generic",
