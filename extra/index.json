@@ -782,7 +782,7 @@
 			"names": {
 				"en-US": "Puppetz Hero I"
 			},
-			"icon": "generic",
+			"icon": "ph1",
 			"type": "custom"
 		},
 		{ 
@@ -790,7 +790,7 @@
 			"names": {
 				"en-US": "Puppetz Hero II"
 			},
-			"icon": "generic",
+			"icon": "ph2",
 			"type": "custom"
 		},
 		{ 
@@ -798,7 +798,7 @@
 			"names": {
 				"en-US": "Puppetz Hero III"
 			},
-			"icon": "generic",
+			"icon": "ph3",
 			"type": "custom"
 		},
 		{ 
@@ -806,7 +806,7 @@
 			"names": {
 				"en-US": "Puppetz Hero IV"
 			},
-			"icon": "generic",
+			"icon": "ph4",
 			"type": "custom"
 		},
 		{ 
@@ -814,7 +814,7 @@
 			"names": {
 				"en-US": "Rage Quit"
 			},
-			"icon": "generic",
+			"icon": "ragequit",
 			"type": "custom"
 		},
 		{ 
