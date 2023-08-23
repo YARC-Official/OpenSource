@@ -1060,9 +1060,12 @@
 			"type": "custom"
 		},
 		{
-			"ids": [ "a9" ],
+			"ids": [ 
+				"a9", 
+				"A9", 
+			],
 			"names": {
-				"en-US": "A9"
+				"en-US": "Asphalt 9: Legends"
 			},
 			"icon": "a9",
 			"type": "custom"
