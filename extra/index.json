@@ -319,7 +319,7 @@
 				"en-US": "Clone Hero"
 			},
 			"icon": "clonehero",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "codered" ],
@@ -511,7 +511,7 @@
 				"en-US": "Frets on Fire"
 			},
 			"icon": "fof",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "fuse" ],
@@ -535,7 +535,7 @@
 				"en-US": "GuitarFreaks"
 			},
 			"icon": "generic",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "gf2dm1" ],
@@ -543,7 +543,7 @@
 				"en-US": "GuitarFreaks 2ndMIX & DrumMania"
 			},
 			"icon": "generic",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "addygh" ],
@@ -583,15 +583,23 @@
 				"en-US": "Guitar Praise"
 			},
 			"icon": "praise",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "praisedlc" ],
 			"names": {
+				"en-US": "Guitar Praise DLC"
+			},
+			"icon": "praisedlc",
+			"type": "game"
+		},
+		{
+			"ids": [ "praiseexpansion" ],
+			"names": {
 				"en-US": "Guitar Praise: Expansion Pack 1"
 			},
 			"icon": "generic",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "stryper" ],
@@ -599,7 +607,7 @@
 				"en-US": "Guitar Praise: Stryper"
 			},
 			"icon": "stryper",
-			"type": "custom"
+			"type": "game"
 		},
 		{ 
 			"ids": [ "guitarzero2" ],
@@ -774,7 +782,7 @@
 			"names": {
 				"en-US": "PowerGig: Rise of the SixString DLC"
 			},
-			"icon": "pg",
+			"icon": "pgdlc",
 			"type": "game"
 		},
 		{ 
@@ -782,7 +790,7 @@
 			"names": {
 				"en-US": "Puppetz Hero I"
 			},
-			"icon": "generic",
+			"icon": "ph1",
 			"type": "custom"
 		},
 		{ 
@@ -790,7 +798,7 @@
 			"names": {
 				"en-US": "Puppetz Hero II"
 			},
-			"icon": "generic",
+			"icon": "ph2",
 			"type": "custom"
 		},
 		{ 
@@ -798,7 +806,7 @@
 			"names": {
 				"en-US": "Puppetz Hero III"
 			},
-			"icon": "generic",
+			"icon": "ph3",
 			"type": "custom"
 		},
 		{ 
@@ -806,7 +814,7 @@
 			"names": {
 				"en-US": "Puppetz Hero IV"
 			},
-			"icon": "generic",
+			"icon": "ph4",
 			"type": "custom"
 		},
 		{ 
@@ -814,7 +822,7 @@
 			"names": {
 				"en-US": "Rage Quit"
 			},
-			"icon": "generic",
+			"icon": "ragequit",
 			"type": "custom"
 		},
 		{ 
@@ -846,7 +854,7 @@
 			"names": {
 				"en-US": "Rock Revolution DLC"
 			},
-			"icon": "rr",
+			"icon": "rrdlc",
 			"type": "game"
 		},
 		{ 
@@ -1162,6 +1170,32 @@
 			},
 			"icon": "brick",
 			"type": "custom"
-		}		
+		},
+		{
+			"ids": [ "lisarb", "lisarb1" ],
+			"names": {
+				"en-US": "Lisarb 1",
+				"pt-BR": "Lisarb 1: A Lenda Brazuca"
+			},
+			"icon": "lisarb",
+			"type": "custom"
+		},
+		{
+			"ids": [ "lisarb2" ],
+			"names": {
+				"en-US": "Lisarb 2",
+				"pt-BR": "Lisarb 2: Mais do que Samba e Futebol"
+			},
+			"icon": "lisarb2",
+			"type": "custom"
+		},
+		{
+			"ids": [ "lisarb3" ],
+			"names": {
+				"en-US": "Lisarb 3"
+			},
+			"icon": "lisarb3",
+			"type": "custom"
+		}
 	]
 }

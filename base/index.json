@@ -376,6 +376,14 @@
 			},
 			"icon": "gdrb",
 			"type": "rb"
+		},
+		{
+			"ids": [ "gdrbdlc", "gdrbp", "gdrb_plus" ],
+			"names": {
+				"en-US": "Green Day: Rock Band DLC"
+			},
+			"icon": "gdrbdlc",
+			"type": "rb"
 		}
 	]
 }
