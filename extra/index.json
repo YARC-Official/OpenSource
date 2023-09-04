@@ -718,7 +718,7 @@
 			"names": {
 				"en-US": "Miscellaneous Packs"
 			},
-			"icon": "generic",
+			"icon": "miscellaneous",
 			"type": "custom"
 		},
 		{ 
@@ -918,7 +918,7 @@
 			"names": {
 				"en-US": "Vortex Hero"
 			},
-			"icon": "generic",
+			"icon": "vortexhero",
 			"type": "custom"
 		},
 		{ 
@@ -1195,6 +1195,22 @@
 				"en-US": "Lisarb 3"
 			},
 			"icon": "lisarb3",
+			"type": "custom"
+		},
+		{
+			"ids": [ "soi" ],
+			"names": {
+				"en-US": "Shadow of Intent Discography"
+			},
+			"icon": "soi",
+			"type": "custom"
+		},
+		{
+			"ids": [ "french" ],
+			"names": {
+				"en-US": "HexaNation"
+			},
+			"icon": "french",
 			"type": "custom"
 		}
 	]
