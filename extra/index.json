@@ -1212,6 +1212,14 @@
 			},
 			"icon": "french",
 			"type": "custom"
+		},
+		{
+			"ids": [ "deltaom3ga" ],
+			"names": {
+				"en-US": "DeltaOm3ga"
+			},
+			"icon": "deltaom3ga",
+			"type": "custom"
 		}
 	]
 }
