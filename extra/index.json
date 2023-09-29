@@ -1212,6 +1212,14 @@
 			},
 			"icon": "french",
 			"type": "custom"
+		},
+		{
+			"ids": [ "fretsmasher" ],
+			"names": {
+				"en-US": "Fret Smasher"
+			},
+			"icon": "fretsmasher",
+			"type": "game"
 		}
 	]
 }
