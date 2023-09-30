@@ -1220,6 +1220,14 @@
 			},
 			"icon": "fretsmasher",
 			"type": "game"
+		},
+		{
+			"ids": [ "singstarguitar" ],
+			"names": {
+				"en-US": "SingStar Guitar"
+			},
+			"icon": "singstarguitar",
+			"type": "game"
 		}
 	]
 }
