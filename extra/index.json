@@ -1228,6 +1228,14 @@
 			},
 			"icon": "singstarguitar",
 			"type": "game"
+		},
+		{
+			"ids": [ "deltaom3ga" ],
+			"names": {
+				"en-US": "DeltaOm3ga"
+			},
+			"icon": "deltaom3ga",
+			"type": "charter"
 		}
 	]
 }
