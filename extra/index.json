@@ -1214,6 +1214,22 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "fretsmasher" ],
+			"names": {
+				"en-US": "Fret Smasher"
+			},
+			"icon": "fretsmasher",
+			"type": "game"
+		},
+		{
+			"ids": [ "singstarguitar" ],
+			"names": {
+				"en-US": "SingStar Guitar"
+			},
+			"icon": "singstarguitar",
+			"type": "game"
+		},
+		{
 			"ids": [ "deltaom3ga" ],
 			"names": {
 				"en-US": "DeltaOm3ga"
