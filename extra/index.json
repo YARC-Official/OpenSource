@@ -1236,18 +1236,19 @@
 			},
 			"icon": "deltaom3ga",
 			"type": "charter"
-    },
-    {
-      "ids": [ "nirvanasp" ],
-      "names": {
-        "en-US": "Nirvana Discography"
-      },
-      "icon": "nirvana",
-      "type": "custom"
-}
-},
-{
+		},
+		{
+			"ids": [ "nirvanasp" ],
+			"names": {
+				"en-US": "Nirvana Discography"
+			},
+			"icon": "nirvana",
+			"type": "custom"
+		}
+		},
+		{
     
-   }
+
+    }
   ]
 }
