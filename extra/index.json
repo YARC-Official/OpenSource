@@ -1238,18 +1238,12 @@
 			"type": "charter"
 		},
 		{
-            "ids": [ "nirvanasp" "nirvana" ],
-            "names": {
-            "en-US": "Nirvana Discography"
-        
-            },
-            "icon": "nirvana",
-            "type": "custom"
-        }
-	},
-	{
-    
-    }
-  ]
+			"ids": [ "nirvanasp", "nirvana" ],
+			"names": {
+				"en-US": "Nirvana Discography"
+			},
+			"icon": "nirvana",
+			"type": "custom"
+		}
+	]
 }
-
