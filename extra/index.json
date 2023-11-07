@@ -537,6 +537,14 @@
 			"icon": "fof",
 			"type": "game"
 		},
+		{
+			"ids": [ "fofix" ],
+			"names": {
+				"en-US": "Frets on Fire X"
+			},
+			"icon": "fofix",
+			"type": "game"
+		},
 		{ 
 			"ids": [ "fuse" ],
 			"names": {
@@ -1251,6 +1259,14 @@
 				"en-US": "SingStar Guitar"
 			},
 			"icon": "singstarguitar",
+			"type": "game"
+		},
+		{
+			"ids": [ "popstarguitar" ],
+			"names": {
+				"en-US": "PopStar Guitar"
+			},
+			"icon": "popstarguitar",
 			"type": "game"
 		},
 		{
