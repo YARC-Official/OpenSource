@@ -17,6 +17,30 @@
 			"icon": "djhero",
 			"type": "game"
 		},
+		{ 
+			"ids": [ "djherodlc", "djhdlc" ],
+			"names": {
+				"en-US": "DJ Hero DLC"
+			},
+			"icon": "djherodlc",
+			"type": "game"
+		},
+		{ 
+			"ids": [ "djhero2", "djh2" ],
+			"names": {
+				"en-US": "DJ Hero 2"
+			},
+			"icon": "djhero2",
+			"type": "game"
+		},
+		{ 
+			"ids": [ "djhero2dlc", "djh2dlc" ],
+			"names": {
+				"en-US": "DJ Hero 2 DLC"
+			},
+			"icon": "djhero2dlc",
+			"type": "game"
+		},
 		{
 			"ids": [ "bhds" ],
 			"names": {
