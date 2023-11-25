@@ -354,11 +354,27 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "ugc_lost" ], 
+			"ids": [ "ugc_lost", "rbn_lost" ], 
 			"names": {
 				"en-US": "Lost Rock Band Network"
 			},
-			"icon": "rbn1",
+			"icon": "rbn1lost",
+			"type": "rb"
+		},
+		{
+			"ids": [ "ugc1_lost", "rbn1_lost" ], 
+			"names": {
+				"en-US": "Lost Rock Band Network 1.0"
+			},
+			"icon": "rbn1lost",
+			"type": "rb"
+		},
+		{
+			"ids": [ "ugc2_lost", "rbn2_lost" ], 
+			"names": {
+				"en-US": "Lost Rock Band Network 2.0"
+			},
+			"icon": "rbn2lost",
 			"type": "rb"
 		},
 		{
