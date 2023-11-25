@@ -18,14 +18,6 @@
 			"type": "game"
 		},
 		{
-			"ids": [ "yargdlc" ],
-			"names": {
-				"en-US": "YARG DLC"
-			},
-			"icon": "generic",
-			"type": "game"
-		},
-		{
 			"ids": [ "gh", "gh1" ],
 			"names": {
 				"en-US": "Guitar Hero"
