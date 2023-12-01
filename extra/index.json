@@ -642,19 +642,27 @@
 			"type": "game"
 		},
 		{ 
+			"ids": [ "guitarzero" ],
+			"names": {
+				"en-US": "Guitar Zero"
+			},
+			"icon": "guitarzero",
+			"type": "custom"
+		},
+		{ 
 			"ids": [ "guitarzero2" ],
 			"names": {
 				"en-US": "Guitar Zero 2"
 			},
-			"icon": "generic",
+			"icon": "guitarzero2",
 			"type": "custom"
 		},
 		{ 
-			"ids": [ "guitarherodlc" ],
+			"ids": [ "guitarzerodlc" ],
 			"names": {
 				"en-US": "Guitar Zero 2 DLC"
 			},
-			"icon": "generic",
+			"icon": "guitarzero2dlc",
 			"type": "custom"
 		},
 		{ 
