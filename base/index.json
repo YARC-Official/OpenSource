@@ -26,6 +26,14 @@
 			"type": "gh"
 		},
 		{
+			"ids": [ "ghdx", "gh1dx" ],
+			"names": {
+				"en-US": "Guitar Hero Deluxe"
+			},
+			"icon": "ghdx",
+			"type": "gh"
+		},
+		{
 			"ids": [ "gh2" ],
 			"names": {
 				"en-US": "Guitar Hero II"
@@ -55,6 +63,14 @@
 				"en-US": "Guitar Hero II Deluxe DLC"
 			},
 			"icon": "gh2dxdlc",
+			"type": "gh"
+		},
+		{
+			"ids": [ "gh2dxcustoms" ],
+			"names": {
+				"en-US": "Guitar Hero II Deluxe Customs"
+			},
+			"icon": "gh2dxcustoms",
 			"type": "gh"
 		},
 		{
