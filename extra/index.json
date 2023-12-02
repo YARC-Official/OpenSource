@@ -642,7 +642,7 @@
 			"type": "game"
 		},
 		{ 
-			"ids": [ "guitarzero" ],
+			"ids": [ "guitarzero", "guitarzero132" ],
 			"names": {
 				"en-US": "Guitar Zero"
 			},
