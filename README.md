@@ -18,7 +18,7 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 
 # 🛡️ License
 
-OpenSource itself is licensed under the Unlicense License (completely public domain) - see the [`LICENSE`](../master/LICENSE) file for details.
+OpenSource itself and its assets are completely public domain, however the **trademarks of the brands/games themselves are held by their respective copyright or trademark owners** - see the [`LICENSE`](../master/LICENSE) file for details.
 
 Credit would be nice, but is definately not required.
 
