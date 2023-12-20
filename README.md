@@ -5,7 +5,7 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 
 # 📃 Table of Contents
 
-- [Credits](#-credits)
+- [License](#️-license)
 - [Contributing](#️-contributing)
 - [Specifications for Use](#-specifications-for-use)
   - [`index.json`](#indexjson)
@@ -14,21 +14,13 @@ OpenSource (get it?) is a large list of guitar-game source icons, and source nam
 - [Guidelines for Making Icons](#-guidelines-for-making-icons)
 - [Guidelines for NEW Sources](#-guidelines-for-new-sources)
 - [Webviewer](#-webviewer)
-- [License](#️-license)
+- [Credits](#-credits)
 
-# 👉 Credits
+# 🛡️ License
 
-**HUGE thanks to [Kadu](https://twitter.com/kaduwaengertner)** for making the original set of icons, along with:
-- [Pantotone](https://github.com/Pantotone)
-- [DD](https://github.com/thoudankeykang)
-- [exoticri](https://github.com/exoticri)
-- [LlysiX](https://github.com/LlysiX)
-- [CloneHeroUruguay](https://github.com/CloneHeroUruguay)
-- [NevesPT](https://github.com/nevespt)
-- [SolemnSpirit](https://github.com/SolemnSpirit)
-- [Frickitickitavi](https://github.com/Frickitickitavi)
-- [yoitsOJ](https://github.com/yoitsOJ)
-- [themasterofjohns](https://github.com/themasterofjohns)
+OpenSource itself and its assets are completely public domain, however the **trademarks of the brands/games themselves are held by their respective copyright or trademark owners** - see the [`LICENSE`](../master/LICENSE) file for details.
+
+Credit would be nice, but is definately not required.
 
 # ✍️ Contributing
 
@@ -112,8 +104,19 @@ Charters **should always** use their full name as their ID, and only their name 
 
 OpenSource has a webviewer which shows all of the icons, sources, names, etc. In order to access the live webview, [click here](https://yarc-official.github.io/OpenSource/ignore/webviewer).  If you want to open the webviewer that includes your custom icon, you must start a local web server. Just opening the `index.html` in your browser will not work.
 
-# 🛡️ License
+# 👉 Credits
 
-OpenSource is licensed under the Unlicense License (completely public domain) - see the [`LICENSE`](../master/LICENSE) file for details.
-
-Credit would be nice, but is definately not required.
+**HUGE thanks to [Kadu](https://twitter.com/kaduyarg)** for making the original set of icons, along with:
+- [Pantotone](https://github.com/Pantotone)
+- [DD](https://github.com/thoudankeykang)
+- [exoticri](https://github.com/exoticri)
+- [LlysiX](https://github.com/LlysiX)
+- [CloneHeroUruguay](https://github.com/CloneHeroUruguay)
+- [NevesPT](https://github.com/nevespt)
+- [SolemnSpirit](https://github.com/SolemnSpirit)
+- [Frickitickitavi](https://github.com/Frickitickitavi)
+- [yoitsOJ](https://github.com/yoitsOJ)
+- [themasterofjohns](https://github.com/themasterofjohns)
+- [lucaspontoexe](https://github.com/lucaspontoexe)
+- [DeltaOm3gaCharting](https://github.com/DeltaOm3gaCharting)
+- [brassmonke2](https://github.com/brassmonke2)
