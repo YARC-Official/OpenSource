@@ -1293,6 +1293,14 @@
 			},
 			"icon": "nirvana",
 			"type": "custom"
+		},
+		{
+			"ids": [ "santarockstar", "santarockstarhd", "santa" ],
+			"names": {
+				"en-US": "Santa Rockstar"
+			},
+			"icon": "santahd",
+			"type": "game"
 		}
 	]
 }
