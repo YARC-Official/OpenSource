@@ -1287,6 +1287,14 @@
 			"type": "charter"
 		},
 		{
+			"ids": [ "paletagalleta" ],
+			"names": {
+				"en-US": "PaletaGalleta"
+			},
+			"icon": "paletagalleta",
+			"type": "charter"
+		},
+		{
 			"ids": [ "nirvanasp", "nirvana" ],
 			"names": {
 				"en-US": "Nirvana Discography"
