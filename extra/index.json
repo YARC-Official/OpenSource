@@ -338,6 +338,14 @@
 			"type": "custom"
 		},
 		{ 
+			"ids": [ "cj" ],
+			"names": {
+				"en-US": "cj"
+			},
+			"icon": "cj",
+			"type": "charter"
+		},
+		{ 
 			"ids": [ "ch" ],
 			"names": {
 				"en-US": "Clone Hero"
