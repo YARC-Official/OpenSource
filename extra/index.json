@@ -546,6 +546,14 @@
 			"type": "game"
 		},
 		{ 
+			"ids": [ "eof" ],
+			"names": {
+				"en-US": "Editor on Fire"
+			},
+			"icon": "eof",
+			"type": "game"
+		},
+		{ 
 			"ids": [ "fuse" ],
 			"names": {
 				"en-US": "Fuse Box"
