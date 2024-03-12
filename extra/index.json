@@ -1310,5 +1310,13 @@
 			"icon": "nirvana",
 			"type": "custom"
 		}
+		{
+			"ids": [ "ted", "redo" ],
+			"names": {
+				"en-US": "thardwardy"
+			},
+			"icon": "ted",
+			"type": "charter"
+		}
 	]
 }
