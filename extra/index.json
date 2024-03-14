@@ -318,7 +318,7 @@
 			"names": {
 				"en-US": "CHARTS 2"
 			},
-			"icon": "generic",
+			"icon": "charts2",
 			"type": "custom"
 		},
 		{
@@ -886,7 +886,7 @@
 			"names": {
 				"en-US": "REVOLVED"
 			},
-			"icon": "generic",
+			"icon": "revolved",
 			"type": "custom"
 		},
 		{
@@ -974,7 +974,7 @@
 			"names": {
 				"en-US": "World Charts Community"
 			},
-			"icon": "generic",
+			"icon": "wcc",
 			"type": "custom"
 		},
 		{
@@ -1317,6 +1317,38 @@
 			},
 			"icon": "ted",
 			"type": "charter"
+		},
+		{
+			"ids": [ "santarockstar", "santarockstarhd", "santa" ],
+			"names": {
+				"en-US": "Santa Rockstar"
+			},
+			"icon": "santahd",
+			"type": "game"
+		},
+		{
+			"ids": [ "Mickelräven", "Mickelraven" ],
+			"names": {
+				"en-US": "Mickelräven"
+			},
+			"icon": "Mickelraven",
+			"type": "charter"
+		},
+		{
+			"ids": [ "chelhero2" ],
+			"names": {
+				"en-US": "Chel Hero 2"
+			},
+			"icon": "chelhero2",
+			"type": "custom"
+		},
+		{
+			"ids": [ "burnout3" ],
+			"names": {
+				"en-US": "Burnout 3: Takedown"
+			},
+			"icon": "burnout3",
+			"type": "custom"
 		}
 	]
 }
