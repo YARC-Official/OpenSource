@@ -1327,11 +1327,11 @@
 			"type": "game"
 		},
 		{
-			"ids": [ "Mickelräven", "Mickelraven" ],
+			"ids": [ "mickelräven", "mickelraven" ],
 			"names": {
 				"en-US": "Mickelräven"
 			},
-			"icon": "Mickelraven",
+			"icon": "mickelraven",
 			"type": "charter"
 		},
 		{
