@@ -350,7 +350,7 @@
 			"names": {
 				"en-US": "Code Red"
 			},
-			"icon": "generic",
+			"icon": "codered",
 			"type": "custom"
 		},
 		{
@@ -422,7 +422,7 @@
 			"names": {
 				"en-US": "Cow Hero DLC 2 - Bovine Champion"
 			},
-			"icon": "generic",
+			"icon": "cowherodlc2",
 			"type": "custom"
 		},
 		{
@@ -430,7 +430,7 @@
 			"names": {
 				"en-US": "Cow Hero DLC 3 - Cattle Guardian"
 			},
-			"icon": "generic",
+			"icon": "cowherodlc3",
 			"type": "custom"
 		},
 		{
@@ -638,7 +638,7 @@
 			"names": {
 				"en-US": "Guitar Praise: Expansion Pack 1"
 			},
-			"icon": "generic",
+			"icon": "praiseexpansion",
 			"type": "game"
 		},
 		{
@@ -686,7 +686,7 @@
 			"names": {
 				"en-US": "Instru-Metal"
 			},
-			"icon": "generic",
+			"icon": "imetal",
 			"type": "custom"
 		},
 		{
@@ -734,7 +734,7 @@
 			"names": {
 				"en-US": "Marathon Hero 2"
 			},
-			"icon": "generic",
+			"icon": "marathonhero2",
 			"type": "custom"
 		},
 		{
