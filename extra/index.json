@@ -1349,6 +1349,14 @@
 			},
 			"icon": "burnout3",
 			"type": "custom"
+		},
+		{
+			"ids": [ "yoshibyl", "yoshiog" ],
+			"names": {
+				"en-US": "YoShibyl"
+			},
+			"icon": "yoshibyl",
+			"type": "custom"
 		}
 	]
 }
