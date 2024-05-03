@@ -1358,5 +1358,13 @@
 			"icon": "yoshibyl",
 			"type": "custom"
 		}
+		{
+			"ids": [ "scu", "scufd" ],
+			"names": {
+				"en-US": "Small Charters United"
+			},
+			"icon": "scu",
+			"type": "custom"
+		},
 	]
 }
