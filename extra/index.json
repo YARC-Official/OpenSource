@@ -1357,7 +1357,7 @@
 			},
 			"icon": "yoshibyl",
 			"type": "custom"
-		}
+		},
 		{
 			"ids": [ "scu", "scufd" ],
 			"names": {
@@ -1365,6 +1365,6 @@
 			},
 			"icon": "scu",
 			"type": "custom"
-		},
+		}
 	]
 }
