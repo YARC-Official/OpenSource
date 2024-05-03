@@ -1327,7 +1327,7 @@
 			"type": "game"
 		},
 		{
-			"ids": [ "mickelräven", "mickelraven" ],
+			"ids": [ "mickelraven" ],
 			"names": {
 				"en-US": "Mickelräven"
 			},
