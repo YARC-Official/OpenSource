@@ -1365,6 +1365,14 @@
 			},
 			"icon": "scu",
 			"type": "custom"
+		},
+		{
+			"ids": [ "rv" ],
+			"names": {
+				"en-US": "RhythmVerse"
+			},
+			"icon": "rv",
+			"type": "custom"
 		}
 	]
 }
