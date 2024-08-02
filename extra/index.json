@@ -450,6 +450,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "dcr" ],
+			"names": {
+				"en-US": "Delta's Chart Repository"
+			},
+			"icon": "dcr",
+			"type": "custom"
+		},
+		{
 			"ids": [ "digi" ],
 			"names": {
 				"en-US": "Digitizer"
