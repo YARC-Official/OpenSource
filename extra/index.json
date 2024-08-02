@@ -1381,6 +1381,14 @@
 			},
 			"icon": "rv",
 			"type": "custom"
+		},
+		{
+			"ids": [ "encore" ],
+			"names": {
+				"en-US": "Encore"
+			},
+			"icon": "encore",
+			"type": "game"
 		}
 	]
 }
