@@ -456,6 +456,7 @@
 			},
 			"icon": "dcr",
 			"type": "custom"
+		},
 		{
 			"ids": [ "digi" ],
 			"names": {
