@@ -554,6 +554,14 @@
 			"type": "game"
 		},
 		{
+			"ids": [ "fortnite", "Fortnite" ],
+			"names": {
+				"en-US": "Fortnite"
+			},
+			"icon": "fortnite",
+			"type": "game"
+		},
+		{
 			"ids": [ "eof" ],
 			"names": {
 				"en-US": "Editor on Fire"
