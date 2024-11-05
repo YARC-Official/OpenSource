@@ -658,6 +658,22 @@
 			"type": "game"
 		},
 		{
+			"ids": [ "jamband" ],
+			"names": {
+				"en-US": "JAMband"
+			},
+			"icon": "jamband",
+			"type": "game"
+		},
+		{
+			"ids": [ "jambanddlc" ],
+			"names": {
+				"en-US": "JAMband DLC"
+			},
+			"icon": "jambanddlc",
+			"type": "game"
+		},
+		{
 			"ids": [ "guitarzero", "guitarzero132" ],
 			"names": {
 				"en-US": "Guitar Zero"
