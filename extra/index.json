@@ -1381,6 +1381,22 @@
 			},
 			"icon": "rv",
 			"type": "custom"
+		},
+		{
+			"ids": [ "lpc" ],
+			"names": {
+				"en-US": "Linkin Park Collection"
+			},
+			"icon": "lpc",
+			"type": "custom"
+		},
+		{
+			"ids": [ "b182c" ],
+			"names": {
+				"en-US": "Blink-182 Collection"
+			},
+			"icon": "b182c",
+			"type": "custom"
 		}
 	]
 }
