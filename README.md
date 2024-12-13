@@ -1,5 +1,6 @@
 # OpenSource
-OpenSource (get it?) is a large list of guitar-game source icons, and source names, in different languages! [Click here](https://yarc-official.github.io/OpenSource/ignore/webviewer/) to view a live list of them!
+
+OpenSource (get it?) is a large list of guitar-game source icons, and source names, in different languages! [Click here](https://opensource.yarg.in) to view a live list of them!
 
 ![Banner](./ignore/banner.png)
 
@@ -102,7 +103,7 @@ Charters **should always** use their full name as their ID, and only their name 
 
 # 🌐 Webviewer
 
-OpenSource has a webviewer which shows all of the icons, sources, names, etc. In order to access the live webview, [click here](https://yarc-official.github.io/OpenSource/ignore/webviewer).  If you want to open the webviewer that includes your custom icon, you must start a local web server. Just opening the `index.html` in your browser will not work.
+OpenSource has a webviewer which shows all of the icons, sources, names, etc. In order to access the live webview, [click here](https://opensource.yarg.in). If you want to open the webviewer that includes your custom icon, you must start a local web server. Just opening the `index.html` in your browser will not work.
 
 # 👉 Credits
 
