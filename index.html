@@ -3,74 +3,22 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Redirect to new OpenSource WebViewer</title>
+        <title>OpenSource Webviewer</title>
 
-        <meta
-            http-equiv="refresh"
-            content="0; URL=https://opensource.yarg.in"
-        />
-        <link rel="canonical" href="https://opensource.yarg.in" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
             href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,600;0,700;1,900&display=swap"
             rel="stylesheet"
         />
-
-        <style>
-            html {
-                background: #060811;
-            }
-
-            body {
-                font-family: "Red Hat Display", sans-serif;
-                color: #fff;
-                margin: 0;
-
-                height: 100vh;
-                height: 100dvh;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                text-align: center;
-            }
-
-            .message {
-                padding: 150px;
-            }
-
-            a {
-                text-decoration: none;
-            }
-
-            .logo svg {
-                height: 30px;
-                color: inherit;
-            }
-
-            .title {
-                text-transform: uppercase;
-                font-weight: 900;
-                font-style: italic;
-                font-size: min(max(12vw, 35px), 70px);
-                line-height: 70px;
-                margin-bottom: 10px;
-            }
-
-            .title span {
-                color: rgb(255, 226, 125);
-            }
-
-            .description {
-                color: #8d969e;
-                font-size: 1.5em;
-                margin: 20px;
-            }
-        </style>
+        <link rel="stylesheet" href="ignore/webviewer/style.css" />
     </head>
-
     <body>
-        <div class="message">
+        <div class="background-header">
+            <div class="animation"></div>
+        </div>
+
+        <header>
             <div class="logo">
                 <svg viewBox="0 0 68 30" xmlns="http://www.w3.org/2000/svg">
                     <g fill="currentColor">
@@ -94,12 +42,43 @@
             </div>
             <div class="title">Open<span>Source</span></div>
             <div class="description">
-                OpenSource webviewer has been moved to
-                <b>opensource.yarg.in</b>.
-                <br />
-                You'll be redirect in a few seconds.
-                <a href="https://opensource.yarg.in">(click here if not)</a>
+                List of current available sources<br />
+                If you want to contribute check the <b>repository</b> for
+                guidelines
             </div>
+        </header>
+
+        <div class="content">
+            <div class="stats" id="stats"></div>
+            <div class="types" id="types"></div>
         </div>
+
+        <template id="source_template">
+            <div class="icon">
+                <img src="" alt="" />
+            </div>
+            <div class="info">
+                <div class="name"></div>
+                <div class="tags"></div>
+            </div>
+        </template>
+
+        <template id="type_template">
+            <div class="type">
+                <div class="name"></div>
+                <div class="sources"></div>
+            </div>
+        </template>
+
+        <template id="stat_template">
+            <div class="stat">
+                <a href="">
+                    <div class="counter">...</div>
+                    <div class="name"></div>
+                </a>
+            </div>
+        </template>
+
+        <script src="ignore/webviewer/script.js"></script>
     </body>
 </html>
