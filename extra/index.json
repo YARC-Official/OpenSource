@@ -1399,12 +1399,13 @@
 			"type": "custom"
 		},
 		{
-			"ids": [ "m9, m1999" ],
+			"ids": [ "m9", "m1999" ],
 			"names": {
 				"en-US": "m9"
 			},
 			"icon": "m9",
 			"type": "charter"
-		}
+		},
+
 	]
 }
