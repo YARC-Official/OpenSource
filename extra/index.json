@@ -818,6 +818,14 @@
 			"type": "game"
 		},
 		{
+			"ids": [ "psgp3" ],
+			"names": {
+				"en-US": "Phase Shift Guitar Project 3"
+			},
+			"icon": "psgp3",
+			"type": "custom"
+		},
+		{
 			"ids": [ "psgp4" ],
 			"names": {
 				"en-US": "Phase Shift Guitar Project 4"
