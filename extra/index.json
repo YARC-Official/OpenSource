@@ -1397,6 +1397,14 @@
 			},
 			"icon": "rv",
 			"type": "custom"
+		},
+		{
+			"ids": ["fnfestival", "fortnitefestival"],
+			"names": {
+				"en-US": "Fortnite Festival"
+			},
+			"icon": "fnfestival",
+			"type": "game"
 		}
 	]
 }
