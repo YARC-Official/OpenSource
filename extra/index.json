@@ -1397,6 +1397,14 @@
 			},
 			"icon": "rv",
 			"type": "custom"
+		},
+		{
+			"ids": [ "donnaken15" ],
+			"names": {
+				"en-US": "donnaken15's Customs"
+			},
+			"icon": "dk15",
+			"type": "charter"
 		}
 	]
 }
