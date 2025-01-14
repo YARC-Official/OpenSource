@@ -1405,6 +1405,14 @@
 			},
 			"icon": "guitarzeroencore1",
 			"type": "custom"
+		},
+		{
+			"ids": [ "encore" ],
+			"names": {
+				"en-US": "Encore"
+			},
+			"icon": "encore",
+			"type": "custom"
 		}
 	]
 }
