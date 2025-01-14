@@ -991,7 +991,7 @@
 				"en-US": "Teminite"
 			},
 			"icon": "teminite",
-			"type:" "custom"
+			"type": "custom"
 		},
 		{
 			"ids": [ "vortex_hero" ],
