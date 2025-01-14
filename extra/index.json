@@ -986,6 +986,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "teminite" ],
+			"names": {
+				"en-US": "Teminite"
+			},
+			"icon": "teminite",
+			"type:" "custom"
+		},
+		{
 			"ids": [ "vortex_hero" ],
 			"names": {
 				"en-US": "Vortex Hero"
