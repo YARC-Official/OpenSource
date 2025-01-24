@@ -242,6 +242,14 @@
 			"type": "gh"
 		},
 		{
+			"ids": [ "bandhero2", "bh2" ],
+			"names": {
+				"en-US": "Band Hero 2"
+			},
+			"icon": "bh2",
+			"type": "gh"
+		},
+		{
 			"ids": [ "ghl" ],
 			"names": {
 				"en-US": "Guitar Hero Live"
