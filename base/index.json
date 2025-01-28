@@ -282,7 +282,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb2" ], 
+			"ids": [ "rb2", "rb2_real" ], 
 			"names": {
 				"en-US": "Rock Band 2"
 			},
