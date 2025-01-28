@@ -1429,6 +1429,14 @@
 			},
 			"icon": "encore",
 			"type": "custom"
-		}
+		},
+		{
+			"ids": [ "rbee" ],
+			"names": {
+				"en-US": "Rock Band en Español"
+			},
+			"icon": "rbee",
+			"type": "custom"
+		},
 	]
 }
