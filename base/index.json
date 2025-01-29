@@ -242,6 +242,14 @@
 			"type": "gh"
 		},
 		{
+			"ids": [ "bandhero2", "bh2" ],
+			"names": {
+				"en-US": "Band Hero 2"
+			},
+			"icon": "bh2",
+			"type": "gh"
+		},
+		{
 			"ids": [ "ghl" ],
 			"names": {
 				"en-US": "Guitar Hero Live"
@@ -274,7 +282,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb2" ], 
+			"ids": [ "rb2", "rb2_real" ], 
 			"names": {
 				"en-US": "Rock Band 2"
 			},

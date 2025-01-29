@@ -1405,6 +1405,30 @@
 			},
 			"icon": "rv",
 			"type": "custom"
+		},
+		{
+			"ids": [ "donnaken15" ],
+			"names": {
+				"en-US": "donnaken15's Customs"
+			},
+			"icon": "dk15",
+			"type": "charter"
+		},
+		{
+			"ids": [ "gze1" ],
+			"names": {
+				"en-US": "Guitar Zero Encore 1: Rocks the '70s"
+			},
+			"icon": "guitarzeroencore1",
+			"type": "custom"
+		},
+		{
+			"ids": [ "encore" ],
+			"names": {
+				"en-US": "Encore"
+			},
+			"icon": "encore",
+			"type": "custom"
 		}
 	]
 }
