@@ -1429,6 +1429,190 @@
 			},
 			"icon": "encore",
 			"type": "custom"
-		}
+		},
+		{
+			"ids": [ "gh1r" ],
+			"names": {
+				"en-US": "Guitar Hero Remastered"
+			},
+			"icon": "gh1r",
+			"type": custom
+		},
+		{
+			"ids": [ "gh2r" ],
+			"names": {
+				"en-US": "Guitar Hero II Remastered"
+			},
+			"icon": "gh2r",
+			"type": custom
+		},
+		{
+			"ids": [ "gh80sr" ],
+			"names": {
+				"en-US": "Guitar Hero Encore: Rocks the 80's Remastered"
+			},
+			"icon": "gh80sr",
+			"type": custom
+		},
+		{
+			"ids": [ "gh3r" ],
+			"names": {
+				"en-US": "Guitar Hero III Remastered"
+			},
+			"icon": "gh3r",
+			"type": custom
+		},
+		{
+			"ids": [ "ghar" ],
+			"names": {
+				"en-US": "Guitar Hero Aerosmith Remastered"
+			},
+			"icon": "ghar",
+			"type": custom
+		},
+		{
+			"ids": [ "ghwtr" ],
+			"names": {
+				"en-US": "Guitar Hero World Tour Remastered"
+			},
+			"icon": "ghwtr",
+			"type": custom
+		},
+		{
+			"ids": [ "ghmr" ],
+			"names": {
+				"en-US": "Guitar Hero Metallica Remastered"
+			},
+			"icon": "ghmr",
+			"type": custom
+		},
+		{
+			"ids": [ "gh5r" ],
+			"names": {
+				"en-US": "Guitar Hero 5 Remastered"
+			},
+			"icon": "gh5r",
+			"type": custom
+		},
+		{
+			"ids": [ "ghvhr" ],
+			"names": {
+				"en-US": "Guitar Hero Van Halen Remastered"
+			},
+			"icon": "ghvhr",
+			"type": custom
+		},
+		{
+			"ids": [ "bhr" ],
+			"names": {
+				"en-US": "Band Hero Remastered"
+			},
+			"icon": "bhr",
+			"type": custom
+		},
+		{
+			"ids": [ "ghworr" ],
+			"names": {
+				"en-US": "Guitar Hero Warriors of Rock Remastered"
+			},
+			"icon": "ghworr",
+			"type": custom
+		},
+		{
+			"ids": [ "ghlr" ],
+			"names": {
+				"en-US": "Guitar Hero Live Remastered"
+			},
+			"icon": "ghlr",
+			"type": custom
+		},
+		{
+			"ids": [ "ghtvr" ],
+			"names": {
+				"en-US": "Guitar Hero TV Remastered"
+			},
+			"icon": "ghtvr",
+			"type": custom
+		},
+		{
+			"ids": [ "rb1r" ],
+			"names": {
+				"en-US": "Rock Band Remastered"
+			},
+			"icon": "rb1r",
+			"type": custom
+		},
+		{
+			"ids": [ "rb2r" ],
+			"names": {
+				"en-US": "Rock Band 2 Remastered"
+			},
+			"icon": "ghar",
+			"type": custom
+		},
+		{
+			"ids": [ "rbnr" ],
+			"names": {
+				"en-US": "Rock Band Network Remastered"
+			},
+			"icon": "ghar",
+			"type": custom
+		},
+		{
+			"ids": [ "rbacdcr" ],
+			"names": {
+				"en-US": "AC/DC Live Rock Band Remastered"
+			},
+			"icon": "rbacdcr",
+			"type": custom
+		},
+		{
+			"ids": [ "tbrbr" ],
+			"names": {
+				"en-US": "The Beatles Rock Band Remastered"
+			},
+			"icon": "tbrbr",
+			"type": custom
+		},
+		{
+			"ids": [ "lrbr" ],
+			"names": {
+				"en-US": "LEGO Rock Band Remastered"
+			},
+			"icon": "lrbr",
+			"type": custom
+		},
+		{
+			"ids": [ "gdrbr" ],
+			"names": {
+				"en-US": "Green Day Rock Band Remastered"
+			},
+			"icon": "gdrbr",
+			"type": custom
+		},
+		{
+			"ids": [ "rb3r" ],
+			"names": {
+				"en-US": "Rock Band 3 Remastered"
+			},
+			"icon": "rb3r",
+			"type": custom
+		},
+		{
+			"ids": [ "rb4r" ],
+			"names": {
+				"en-US": "Rock Band 4 Remastered"
+			},
+			"icon": "rb4r",
+			"type": custom
+		},
+		{
+			"ids": [ "rbvrr" ],
+			"names": {
+				"en-US": "Rock Band VR Remastered"
+			},
+			"icon": "rbvrr",
+			"type": custom
+		},
 	]
 }
