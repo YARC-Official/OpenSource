@@ -1429,6 +1429,16 @@
 			},
 			"icon": "encore",
 			"type": "custom"
+		},
+		{
+			"ids": [ "idta" ],
+			"names": {
+				"en-US": "Initial D The Arcade Setlist",
+				"pt-BR": "Setlist do Initial D The Arcade",
+				"ja-JP": "頭文字D、ジ・アーケード せとりすと"
+			},
+			"icon": "idta",
+			"type": "custom"
 		}
 	]
 }
