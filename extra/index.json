@@ -1429,6 +1429,14 @@
 			},
 			"icon": "encore",
 			"type": "custom"
+					},
+		{
+			"ids": [ "wotd","dogg" ],
+			"names": {
+				"en-US": "Way of the Dogg"
+			},
+			"icon": "wotd",
+			"type": "custom"
 		}
 	]
 }
