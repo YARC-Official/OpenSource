@@ -1430,5 +1430,13 @@
 			"icon": "encore",
 			"type": "custom"
 		}
+		{
+			"ids": [ "emotion" ],
+			"names": {
+				"en-US": "Emotional Rollercoaster"
+			},
+			"icon": "emotion",
+			"type": "custom"
+		}
 	]
 }
