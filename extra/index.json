@@ -1295,7 +1295,7 @@
 			"type": "custom"
 		},
 		{
-			"ids": [ "fretsmasher" ],
+			"ids": [ "fretsmasher", "fret smasher" ],
 			"names": {
 				"en-US": "Fret Smasher"
 			},
