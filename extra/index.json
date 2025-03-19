@@ -1429,7 +1429,7 @@
 			},
 			"icon": "encore",
 			"type": "custom"
-		}
+		},
 		{
 			"ids": [ "emotion" ],
 			"names": {
