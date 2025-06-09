@@ -1432,3 +1432,11 @@
 		}
 	]
 }
+{
+    "ids": [ "lanebreakers" ],
+    "names": {
+        "en-US": "Lane Breakers"
+    },
+    "icon": "lanebreakers",
+    "type": "custom"
+}
