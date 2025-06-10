@@ -1428,14 +1428,15 @@
 				"en-US": "Encore"
 			},
 			"icon": "encore",
-			"type": "custom"
-	
-},
-{
-    "ids": [ "lanebreakers" ],
-    "names": {
-        "en-US": "Lane Breakers"
-    },
-    "icon": "lanebreakers",
-    "type": "custom"
+			"type": "custom"			
+		},
+		{
+		    "ids": [ "lanebreakers" ],
+		    "names": {
+		        "en-US": "Lane Breakers"
+		    },
+		    "icon": "lanebreakers",
+		    "type": "custom"
+		}
+	]
 }
