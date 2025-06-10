@@ -1429,9 +1429,8 @@
 			},
 			"icon": "encore",
 			"type": "custom"
-		}
-	]
-}
+	
+},
 {
     "ids": [ "lanebreakers" ],
     "names": {
