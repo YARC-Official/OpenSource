@@ -1429,6 +1429,14 @@
 			},
 			"icon": "encore",
 			"type": "custom"
+		},
+		{
+			"ids": [ "easyaccess" ],
+			"names": {
+				"en-US": "Easy Access"
+			},
+			"icon": "easyaccess",
+			"type": "custom"
 		}
 	]
 }
