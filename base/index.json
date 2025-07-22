@@ -266,7 +266,7 @@
 			"type": "gh"
 		},
 		{
-			"ids": [ "rb1" ], 
+			"ids": [ "rb1" ],
 			"names": {
 				"en-US": "Rock Band 1"
 			},
@@ -274,7 +274,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb1dlc", "rb1_dlc" ], 
+			"ids": [ "rb1dlc", "rb1_dlc" ],
 			"names": {
 				"en-US": "Rock Band 1 DLC"
 			},
@@ -282,7 +282,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb2", "rb2_real" ], 
+			"ids": [ "rb2", "rb2_real" ],
 			"names": {
 				"en-US": "Rock Band 2"
 			},
@@ -290,7 +290,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb2dlc", "rb2_dlc" ], 
+			"ids": [ "rb2dlc", "rb2_dlc" ],
 			"names": {
 				"en-US": "Rock Band 2 DLC"
 			},
@@ -298,7 +298,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb3" ], 
+			"ids": [ "rb3" ],
 			"names": {
 				"en-US": "Rock Band 3"
 			},
@@ -306,7 +306,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb3dlc", "rb3_dlc" ], 
+			"ids": [ "rb3dlc", "rb3_dlc" ],
 			"names": {
 				"en-US": "Rock Band 3 DLC"
 			},
@@ -314,7 +314,15 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb4" ], 
+			"ids": [ "rb3dx", "rb3_dx" ],
+			"names": {
+				"en-US": "Rock Band 3 Deluxe"
+			},
+			"icon": "rb3dx",
+			"type": "rb"
+		},
+		{
+			"ids": [ "rb4" ],
 			"names": {
 				"en-US": "Rock Band 4"
 			},
@@ -322,7 +330,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb4dlc", "rb4_dlc" ], 
+			"ids": [ "rb4dlc", "rb4_dlc" ],
 			"names": {
 				"en-US": "Rock Band 4 DLC"
 			},
@@ -330,7 +338,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rbr", "rb4_rivals" ], 
+			"ids": [ "rbr", "rb4_rivals" ],
 			"names": {
 				"en-US": "Rock Band Rivals"
 			},
@@ -338,7 +346,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "tbrb", "beatles" ], 
+			"ids": [ "tbrb", "beatles" ],
 			"names": {
 				"en-US": "The Beatles Rock Band"
 			},
@@ -346,7 +354,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "tbrbdlc" ], 
+			"ids": [ "tbrbdlc" ],
 			"names": {
 				"en-US": "The Beatles: Rock Band DLC"
 			},
@@ -354,7 +362,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rbacdc", "rbtp_acdc" ], 
+			"ids": [ "rbacdc", "rbtp_acdc" ],
 			"names": {
 				"en-US": "AC/DC Live: Rock Band Track Pack"
 			},
@@ -362,7 +370,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "lrb", "lego" ], 
+			"ids": [ "lrb", "lego" ],
 			"names": {
 				"en-US": "Lego Rock Band"
 			},
@@ -370,7 +378,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rbn" ], 
+			"ids": [ "rbn" ],
 			"names": {
 				"en-US": "Rock Band Network"
 			},
@@ -378,7 +386,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rbn1", "ugc", "ugc1" ], 
+			"ids": [ "rbn1", "ugc", "ugc1" ],
 			"names": {
 				"en-US": "Rock Band Network 1.0"
 			},
@@ -386,7 +394,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rbn2", "ugc_plus", "ugc2" ], 
+			"ids": [ "rbn2", "ugc_plus", "ugc2" ],
 			"names": {
 				"en-US": "Rock Band Network 2.0"
 			},
@@ -394,7 +402,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "ugc_lost", "rbn_lost" ], 
+			"ids": [ "ugc_lost", "rbn_lost" ],
 			"names": {
 				"en-US": "Lost Rock Band Network"
 			},
@@ -402,7 +410,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "ugc1_lost", "rbn1_lost" ], 
+			"ids": [ "ugc1_lost", "rbn1_lost" ],
 			"names": {
 				"en-US": "Lost Rock Band Network 1.0"
 			},
@@ -410,7 +418,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "ugc2_lost", "rbn2_lost" ], 
+			"ids": [ "ugc2_lost", "rbn2_lost" ],
 			"names": {
 				"en-US": "Lost Rock Band Network 2.0"
 			},
@@ -418,7 +426,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb_blitz", "rbb", "blitz" ], 
+			"ids": [ "rb_blitz", "rbb", "blitz" ],
 			"names": {
 				"en-US": "Rock Band Blitz"
 			},
@@ -426,7 +434,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "gdrb", "greenday" ], 
+			"ids": [ "gdrb", "greenday" ],
 			"names": {
 				"en-US": "Green Day: Rock Band"
 			},
