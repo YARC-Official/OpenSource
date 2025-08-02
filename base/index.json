@@ -418,7 +418,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "rb_blitz", "rbb" ], 
+			"ids": [ "rb_blitz", "rbb", "blitz" ], 
 			"names": {
 				"en-US": "Rock Band Blitz"
 			},
