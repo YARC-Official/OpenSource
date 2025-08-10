@@ -1439,6 +1439,22 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "emotion" ],
+			"names": {
+				"en-US": "Emotional Rollercoaster"
+			},
+			"icon": "emotion",
+			"type": "custom"
+		},
+		{
+			"ids": [ "indp" ],
+			"names": {
+				"en-US": "Indiependence Day"
+			},
+			"icon": "indp",
+      "type": "custom"
+    },
+    {
 			"ids": [ "idta" ],
 			"names": {
 				"en-US": "Initial D The Arcade Setlist",
