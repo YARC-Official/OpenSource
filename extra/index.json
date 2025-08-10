@@ -10,6 +10,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "example", "examples", "test" ],
+			"names": {
+				"en-US": "Example and Test Charts"
+			},
+			"icon": "example",
+			"type": "custom"
+		},
+		{
 			"ids": [ "djhero", "djh" ],
 			"names": {
 				"en-US": "DJ Hero"
