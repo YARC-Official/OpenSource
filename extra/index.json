@@ -1447,6 +1447,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "deltabib" ],
+			"names": {
+				"en-US": "Beast In Black Discography"
+			},
+			"icon": "deltabib",
+			"type": "custom"
+		},
+		{
 			"ids": [ "indp" ],
 			"names": {
 				"en-US": "Indiependence Day"
