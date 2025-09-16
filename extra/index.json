@@ -10,6 +10,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "example", "examples", "test" ],
+			"names": {
+				"en-US": "Example and Test Charts"
+			},
+			"icon": "example",
+			"type": "custom"
+		},
+		{
 			"ids": [ "djhero", "djh" ],
 			"names": {
 				"en-US": "DJ Hero"
@@ -1295,7 +1303,7 @@
 			"type": "custom"
 		},
 		{
-			"ids": [ "fretsmasher" ],
+			"ids": [ "fretsmasher", "fret smasher" ],
 			"names": {
 				"en-US": "Fret Smasher"
 			},
@@ -1437,6 +1445,35 @@
 		    },
 		    "icon": "lanebreakers",
 		    "type": "custom"
+
+			"type": "custom"
+		},
+		{
+			"ids": [ "emotion" ],
+			"names": {
+				"en-US": "Emotional Rollercoaster"
+			},
+			"icon": "emotion",
+			"type": "custom"
+		},
+		{
+			"ids": [ "indp" ],
+			"names": {
+				"en-US": "Indiependence Day"
+			},
+			"icon": "indp",
+      "type": "custom"
+    },
+    {
+			"ids": [ "idta" ],
+			"names": {
+				"en-US": "Initial D The Arcade Setlist",
+				"pt-BR": "Setlist do Initial D The Arcade",
+				"ja-JP": "頭文字D、ジ・アーケード せとりすと"
+			},
+			"icon": "idta",
+			"type": "custom"
+
 		}
 	]
 }
