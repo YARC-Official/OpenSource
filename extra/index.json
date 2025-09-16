@@ -1436,7 +1436,15 @@
 				"en-US": "Encore"
 			},
 			"icon": "encore",
-			"type": "custom"
+			"type": "custom"			
+		},
+		{
+		    "ids": [ "lanebreakers" ],
+		    "names": {
+		        "en-US": "Lane Breakers"
+		    },
+		    "icon": "lanebreakers",
+		    "type": "custom"
 		},
 		{
 			"ids": [ "emotion" ],
@@ -1463,6 +1471,7 @@
 			},
 			"icon": "idta",
 			"type": "custom"
+
 		}
 	]
 }
