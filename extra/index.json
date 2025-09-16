@@ -1471,7 +1471,14 @@
 			},
 			"icon": "idta",
 			"type": "custom"
-
-		}
+		},
+		{
+      "ids": [ "airheads" ],
+      "names": {
+        "en-US": "AIRheads"
+      },
+      "icon": "airheads",
+      "type": "custom"
+    }
 	]
 }
