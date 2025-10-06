@@ -583,7 +583,7 @@
 				"en-US": "GITADORA"
 			},
 			"icon": "gd",
-			"type": "custom"
+			"type": "game"
 		},
 		{
 			"ids": [ "gf1" ],
@@ -1436,7 +1436,7 @@
 				"en-US": "Encore"
 			},
 			"icon": "encore",
-			"type": "custom"			
+			"type": "game"			
 		},
 		{
 		    "ids": [ "lanebreakers" ],
