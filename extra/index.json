@@ -1460,9 +1460,9 @@
 				"en-US": "Indiependence Day"
 			},
 			"icon": "indp",
-      "type": "custom"
-    },
-    {
+			"type": "custom"
+		},
+		{
 			"ids": [ "idta" ],
 			"names": {
 				"en-US": "Initial D The Arcade Setlist",
@@ -1473,12 +1473,28 @@
 			"type": "custom"
 		},
 		{
-      "ids": [ "airheads" ],
-      "names": {
-        "en-US": "AIRheads"
-      },
-      "icon": "airheads",
-      "type": "custom"
-    }
+			"ids": [ "airheads" ],
+			"names": {
+				"en-US": "AIRheads"
+			},
+			"icon": "airheads",
+			"type": "custom"
+		},
+		{
+			"ids": [ "festival" ],
+			"names": {
+				"en-US": "Fortnite Festival"
+			},
+			"icon": "festival",
+			"type": "custom"
+		},
+		{
+			"ids": [ "chorusencore" ],
+			"names": {
+				"en-US": "Chorus Encore"
+			},
+			"icon": "chorusencore",
+			"type": "custom"
+		}
 	]
 }
