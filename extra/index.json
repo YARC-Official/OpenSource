@@ -1481,14 +1481,6 @@
 			"type": "custom"
 		},
 		{
-			"ids": [ "festival" ],
-			"names": {
-				"en-US": "Fortnite Festival"
-			},
-			"icon": "festival",
-			"type": "custom"
-		},
-		{
 			"ids": [ "chorusencore" ],
 			"names": {
 				"en-US": "Chorus Encore"
