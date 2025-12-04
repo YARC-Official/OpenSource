@@ -1423,6 +1423,14 @@
 			"type": "charter"
 		},
 		{
+			"ids": [ "m4jkus" ],
+			"names": {
+				"en-US": "M4jkus's Polish Charts"
+			},
+			"icon": "m4jkus",
+			"type": "charter"
+		},
+		{
 			"ids": [ "gze1" ],
 			"names": {
 				"en-US": "Guitar Zero Encore 1: Rocks the '70s"
