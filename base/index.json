@@ -346,7 +346,7 @@
 			"type": "rb"
 		},
 		{
-			"ids": [ "tbrbdlc" ], 
+			"ids": [ "tbrbdlc", "beatles_dlc" ], 
 			"names": {
 				"en-US": "The Beatles: Rock Band DLC"
 			},
