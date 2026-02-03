@@ -1455,14 +1455,22 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "easyaccess" ],
+			"names": {
+				"en-US": "Easy Access"
+			},
+			"icon": "easyaccess",
+            "type": "custom"
+        },
+		{
 			"ids": [ "indp" ],
 			"names": {
 				"en-US": "Indiependence Day"
 			},
 			"icon": "indp",
-      "type": "custom"
-    },
-    {
+            "type": "custom"
+        },
+        {
 			"ids": [ "idta" ],
 			"names": {
 				"en-US": "Initial D The Arcade Setlist",
