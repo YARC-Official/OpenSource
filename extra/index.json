@@ -1441,10 +1441,10 @@
 		{
 			"ids": [ "encore" ],
 			"names": {
-				"en-US": "Encore"
+				"en-US": "encore"
 			},
 			"icon": "encore",
-			"type": "custom"			
+			"type": "game"			
 		},
 		{
 		    "ids": [ "lanebreakers" ],
