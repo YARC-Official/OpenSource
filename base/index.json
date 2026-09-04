@@ -440,6 +440,14 @@
 			},
 			"icon": "gdrbdlc",
 			"type": "rb"
+		},
+		{
+			"ids": [ "lost_dlc" ],
+			"names": {
+				"en-US": "Lost Rock Band DLC"
+			},
+			"icon": "lost_dlc",
+			"type": "rb"
 		}
 	]
 }

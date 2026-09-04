@@ -1415,7 +1415,7 @@
 			"type": "custom"
 		},
 		{
-			"ids": [ "rv" ],
+			"ids": [ "rv", "ugc_rv" ],
 			"names": {
 				"en-US": "RhythmVerse"
 			},
