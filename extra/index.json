@@ -914,6 +914,23 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "rbbr" ],
+			"names": {
+				"en-US": "Rock Band Brazil"
+				"pt-BR": "Rock Band Brasil"
+			},
+			"icon": "rbbr",
+			"type": "custom"
+		},
+		{
+			"ids": [ "rbjapan" ],
+			"names": {
+				"en-US": "Rock Band Japan"
+			},
+			"icon": "rbjapan",
+			"type": "custom"
+		},
+		{
 			"ids": [ "revolved" ],
 			"names": {
 				"en-US": "REVOLVED"
