@@ -1463,6 +1463,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "deltabib" ],
+			"names": {
+				"en-US": "Beast In Black Discography (DeltaOm3ga)"
+			},
+			"icon": "deltabib",
+			"type": "custom"
+		},
+		{
 			"ids": [ "indp" ],
 			"names": {
 				"en-US": "Indiependence Day"
@@ -1494,6 +1502,14 @@
 				"en-US": "Rock Band en Español"
 			},
 			"icon": "rbee",
+			"type": "custom"
+		},
+		{
+			"ids": [ "deltadf" ],
+			"names": {
+				"en-US": "DragonForce Discography (DeltaOm3ga)"
+			},
+			"icon": "deltadf",
 			"type": "custom"
 		}
 	]
