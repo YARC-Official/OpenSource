@@ -1489,6 +1489,24 @@
       		"type": "custom"
     	},
 		{
+      		"ids": [ "suc", "suc-logo", "suconthis" ],
+      		"names": {
+        		"en-US": "Suc",
+				"ja-JP": "サク"
+      		},
+      		"icon": "suc",
+      		"type": "charter"
+    	},
+		{
+      		"ids": [ "ado", "adomination" ],
+      		"names": {
+        		"en-US": "Ado",
+				"ja-JP": "アド"
+      		},
+      		"icon": "ado",
+      		"type": "custom"
+    	},				
+		{
     		"ids": [ "rbee" ],
 			"names": {
 				"en-US": "Rock Band en Español"
