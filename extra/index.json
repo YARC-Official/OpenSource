@@ -1496,5 +1496,13 @@
 			"icon": "rbee",
 			"type": "custom"
 		}
+		{
+    		"ids": [ "frankie7x" ],
+			"names": {
+				"en-US": "frankie7x.eth"
+			},
+			"icon": "frankie7x",
+			"type": "charter"
+		}
 	]
 }
