@@ -714,6 +714,14 @@
 			"type": "custom"
 		},
 		{
+			"ids": [ "holorhythmproject" ],
+			"names": {
+				"en-US": "HoloRhythm Project"
+			},
+			"icon": "holorhythmproject",
+			"type": "custom"
+		},
+		{
 			"ids": [ "imetal" ],
 			"names": {
 				"en-US": "Instru-Metal"
